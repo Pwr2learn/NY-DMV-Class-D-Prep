@@ -8,6 +8,8 @@ import Progress from './pages/Progress';
 import Learn from './pages/Learn';
 import Practice from './pages/Practice';
 import Help from './pages/Help';
+import LearnChapter from './pages/LearnChapter';
+import PracticeTopic from './pages/PracticeTopic';
 
 
 function App() {
@@ -18,7 +20,9 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/learn" element={<Learn />} />
+            <Route path="/learn/:chapterId" element={<LearnChapter />} />
             <Route path="/practice" element={<Practice />} />
+            <Route path="/practice/:topicId" element={<PracticeTopic />} />
             <Route path="/test" element={<MockTest />} />
             <Route path="/results" element={<Results />} />
             <Route path="/progress" element={<Progress />} />

@@ -76,11 +76,31 @@
   },
   "learn": {
     "underConstruction": "En Construcción",
-    "description": "Esta sección contendrá lecciones capítulo por capítulo extraídas del manual del DMV de NY."
+    "description": "Esta sección contendrá lecciones capítulo por capítulo extraídas del manual del DMV de NY.",
+    "chapterNotFound": "Capítulo no encontrado",
+    "goBack": "Volver",
+    "backToChapters": "← Volver a Capítulos",
+    "noMaterials": "Aún no hay materiales de estudio disponibles para este capítulo.",
+    "chapter": "Capítulo"
   },
   "practice": {
     "underConstruction": "En Construcción",
-    "description": "Esta sección te permitirá practicar preguntas por temas específicos como Señales de Tránsito, Derecho de Paso, etc."
+    "description": "Esta sección te permitirá practicar preguntas por temas específicos como Señales de Tránsito, Derecho de Paso, etc.",
+    "selectTopic": "Selecciona un Tema",
+    "topics": {
+      "road_signs": "Señales de Tránsito",
+      "traffic_lights": "Semáforos",
+      "pavement_markings": "Marcas en el Pavimento",
+      "right_of_way": "Derecho de Paso",
+      "turning": "Giros",
+      "passing": "Rebasar",
+      "parking": "Estacionamiento",
+      "defensive_driving": "Manejo Defensivo",
+      "alcohol_and_drugs": "Alcohol y Drogas",
+      "special_conditions": "Condiciones Especiales",
+      "school_buses": "Autobuses Escolares",
+      "emergency_vehicles": "Vehículos de Emergencia"
+    }
   },
   "progress": {
     "readinessLevel": "Nivel de Preparación",

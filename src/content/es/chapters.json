@@ -14,5 +14,53 @@
     "title": "Intersecciones y Giros",
     "summary": "Reglas de derecho de paso y giros seguros.",
     "topics": ["right_of_way", "turning"]
+  },
+  {
+    "id": "es_ch6",
+    "language": "es",
+    "number": 6,
+    "title": "Rebasar",
+    "summary": "Reglas para rebasar otros vehículos de manera segura.",
+    "topics": ["passing"]
+  },
+  {
+    "id": "es_ch7",
+    "language": "es",
+    "number": 7,
+    "title": "Estacionamiento Paralelo",
+    "summary": "Reglas y técnicas para estacionarse.",
+    "topics": ["parking"]
+  },
+  {
+    "id": "es_ch8",
+    "language": "es",
+    "number": 8,
+    "title": "Manejo Defensivo",
+    "summary": "Cómo evitar accidentes y manejar emergencias.",
+    "topics": ["defensive_driving"]
+  },
+  {
+    "id": "es_ch9",
+    "language": "es",
+    "number": 9,
+    "title": "Alcohol y Otras Drogas",
+    "summary": "Los efectos del alcohol/drogas y la ley.",
+    "topics": ["alcohol_and_drugs"]
+  },
+  {
+    "id": "es_ch10",
+    "language": "es",
+    "number": 10,
+    "title": "Condiciones Especiales de Manejo",
+    "summary": "Manejo nocturno, con mal clima y en autopistas.",
+    "topics": ["special_conditions"]
+  },
+  {
+    "id": "es_ch11",
+    "language": "es",
+    "number": 11,
+    "title": "Compartiendo el Camino",
+    "summary": "Peatones, bicicletas y vehículos de emergencia.",
+    "topics": ["school_buses", "emergency_vehicles"]
   }
 ]

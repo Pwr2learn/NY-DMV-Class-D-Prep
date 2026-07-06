@@ -14,5 +14,53 @@
     "title": "Intersections and Turns",
     "summary": "Right-of-way rules and turning safely.",
     "topics": ["right_of_way", "turning"]
+  },
+  {
+    "id": "en_ch6",
+    "language": "en",
+    "number": 6,
+    "title": "Passing",
+    "summary": "Rules for passing other vehicles safely.",
+    "topics": ["passing"]
+  },
+  {
+    "id": "en_ch7",
+    "language": "en",
+    "number": 7,
+    "title": "Parallel Parking",
+    "summary": "Rules and techniques for parking.",
+    "topics": ["parking"]
+  },
+  {
+    "id": "en_ch8",
+    "language": "en",
+    "number": 8,
+    "title": "Defensive Driving",
+    "summary": "How to avoid accidents and handle emergencies.",
+    "topics": ["defensive_driving"]
+  },
+  {
+    "id": "en_ch9",
+    "language": "en",
+    "number": 9,
+    "title": "Alcohol and Other Drugs",
+    "summary": "The effects of alcohol/drugs and the law.",
+    "topics": ["alcohol_and_drugs"]
+  },
+  {
+    "id": "en_ch10",
+    "language": "en",
+    "number": 10,
+    "title": "Special Driving Conditions",
+    "summary": "Driving at night, in bad weather, and on highways.",
+    "topics": ["special_conditions"]
+  },
+  {
+    "id": "en_ch11",
+    "language": "en",
+    "number": 11,
+    "title": "Sharing the Road",
+    "summary": "Pedestrians, bicycles, and emergency vehicles.",
+    "topics": ["school_buses", "emergency_vehicles"]
   }
 ]
