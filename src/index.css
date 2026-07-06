@@ -47,6 +47,15 @@
   padding: 0;
 }
 
+*:focus {
+  outline: none;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   background-color: var(--bg-color);
@@ -59,9 +68,13 @@ body {
 a {
   color: var(--primary-color);
   text-decoration: none;
+  transition: opacity 0.2s;
 }
 a:hover {
   text-decoration: underline;
+}
+a:active, .nav-link:active {
+  opacity: 0.8;
 }
 
 button {
@@ -69,6 +82,15 @@ button {
   font-family: inherit;
   font-size: var(--font-base);
   color: inherit;
+  transition: transform 0.1s ease, background-color 0.2s, opacity 0.2s;
+}
+button:active:not(:disabled) {
+  transform: scale(0.96);
+}
+button:disabled {
+  cursor: not-allowed !important;
+  opacity: 0.6;
+  transform: none !important;
 }
 
 .app-container {
@@ -119,7 +141,7 @@ button {
   align-items: center;
   gap: 0.5rem;
 }
-.control-btn:hover {
+.control-btn:not(:disabled):hover {
   background: var(--surface-color-hover);
 }
 
@@ -139,7 +161,7 @@ button {
   font-weight: 600;
   transition: background-color 0.2s;
 }
-.btn-primary:hover {
+.btn-primary:not(:disabled):hover {
   background-color: var(--primary-color-hover);
 }
 .btn-secondary {
@@ -150,7 +172,7 @@ button {
   border-radius: 6px;
   font-weight: 600;
 }
-.btn-secondary:hover {
+.btn-secondary:not(:disabled):hover {
   background-color: var(--surface-color-hover);
 }
 
@@ -179,7 +201,16 @@ button {
   border: 1px solid var(--border-color);
   border-radius: 8px;
   padding: 1.5rem;
-  transition: transform 0.2s;
+  transition: transform 0.1s ease, background-color 0.2s, border-color 0.2s;
+}
+.card.cursor-pointer {
+  cursor: pointer;
+}
+.card.cursor-pointer:not(:disabled):hover {
+  background-color: var(--surface-color-hover);
+}
+.card.cursor-pointer:active:not(:disabled) {
+  transform: scale(0.98);
 }
 
 /* Quiz Specific */
@@ -193,7 +224,7 @@ button {
   margin-bottom: 0.5rem;
   transition: all 0.2s;
 }
-.choice-btn:hover {
+.choice-btn:not(:disabled):hover {
   border-color: var(--primary-color);
   background-color: var(--surface-color);
 }
