@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "learn": "Aprender",
+    "practice": "Práctica",
+    "mockTest": "Simulador",
+    "progress": "Progreso",
+    "help": "Ayuda"
+  },
+  "home": {
+    "title": "Prep. DMV NY Clase D",
+    "subtitle": "Prepárate para tu Examen de Permiso de Aprendizaje de Nueva York",
+    "description": "Estudia el manual oficial, practica por tema y toma pruebas simuladas reales para asegurar que apruebes.",
+    "startLearning": "Empezar a Aprender",
+    "practiceQuestions": "Preguntas de Práctica",
+    "takeMockTest": "Tomar Prueba Simulada",
+    "viewProgress": "Ver Progreso"
+  },
+  "settings": {
+    "language": "Idioma",
+    "theme": "Tema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "fontSize": "Tamaño de Letra",
+    "small": "Pequeño",
+    "medium": "Mediano",
+    "large": "Grande",
+    "xlarge": "Extra Grande"
+  },
+  "test": {
+    "normal": "Normal (DMV)",
+    "hard": "Difícil",
+    "expert": "Experto",
+    "questionOf": "Pregunta {{current}} de {{total}}",
+    "answered": "Respondidas: {{count}}",
+    "left": "Faltan: {{count}}",
+    "next": "Siguiente",
+    "prev": "Anterior",
+    "submit": "Enviar Prueba",
+    "earlyFailWarning": "Ya no puedes aprobar este intento, pero puedes terminar la prueba para ver tu revisión completa.",
+    "finishAnyway": "Terminar Prueba de Todos Modos",
+    "stopTest": "Detener Prueba"
+  },
+  "results": {
+    "pass": "¡Aprobado!",
+    "fail": "Reprobado",
+    "score": "Puntuación",
+    "roadSigns": "Señales de Tránsito",
+    "timeSpent": "Tiempo Invertido",
+    "weakTopics": "Temas Débiles",
+    "reviewMissed": "Revisar Preguntas Fallidas",
+    "retake": "Volver a Tomar Prueba",
+    "practiceWeak": "Practicar Áreas Débiles",
+    "returnHome": "Volver al Inicio"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "learn": "Learn",
+    "practice": "Practice",
+    "mockTest": "Mock Test",
+    "progress": "Progress",
+    "help": "Help"
+  },
+  "home": {
+    "title": "NY DMV Class D Prep",
+    "subtitle": "Prepare for your New York Learner Permit Test",
+    "description": "Study the official manual, practice by topic, and take realistic mock tests to ensure you pass.",
+    "startLearning": "Start Learning",
+    "practiceQuestions": "Practice Questions",
+    "takeMockTest": "Take Mock Test",
+    "viewProgress": "View Progress"
+  },
+  "settings": {
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "fontSize": "Font Size",
+    "small": "Small",
+    "medium": "Medium",
+    "large": "Large",
+    "xlarge": "Extra Large"
+  },
+  "test": {
+    "normal": "Normal (DMV)",
+    "hard": "Hard",
+    "expert": "Expert",
+    "questionOf": "Question {{current}} of {{total}}",
+    "answered": "Answered: {{count}}",
+    "left": "Left: {{count}}",
+    "next": "Next",
+    "prev": "Previous",
+    "submit": "Submit Test",
+    "earlyFailWarning": "You are no longer able to pass this attempt, but you can finish the test to see your full review.",
+    "finishAnyway": "Finish Test Anyway",
+    "stopTest": "Stop Test"
+  },
+  "results": {
+    "pass": "Passed!",
+    "fail": "Failed",
+    "score": "Score",
+    "roadSigns": "Road Signs",
+    "timeSpent": "Time Spent",
+    "weakTopics": "Weak Topics",
+    "reviewMissed": "Review Missed Questions",
+    "retake": "Retake Test",
+    "practiceWeak": "Practice Weak Areas",
+    "returnHome": "Return Home"
+  }
+}

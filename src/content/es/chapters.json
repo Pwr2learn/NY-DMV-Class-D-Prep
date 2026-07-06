@@ -1,0 +1,18 @@
+[
+  {
+    "id": "es_ch4",
+    "language": "es",
+    "number": 4,
+    "title": "Control de Tráfico",
+    "summary": "Señales, semáforos y marcas en el pavimento.",
+    "topics": ["road_signs", "traffic_lights", "pavement_markings"]
+  },
+  {
+    "id": "es_ch5",
+    "language": "es",
+    "number": 5,
+    "title": "Intersecciones y Giros",
+    "summary": "Reglas de derecho de paso y giros seguros.",
+    "topics": ["right_of_way", "turning"]
+  }
+]
