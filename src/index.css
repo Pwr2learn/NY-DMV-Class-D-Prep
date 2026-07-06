@@ -185,6 +185,9 @@ button:disabled {
 .flex-col { flex-direction: column; }
 .items-center { align-items: center; }
 .justify-center { justify-content: center; }
+.cursor-pointer { cursor: pointer !important; }
+.hover-border-primary:hover { border-color: var(--primary-color) !important; }
+.transition-colors { transition: background-color 0.2s, border-color 0.2s, color 0.2s; }
 
 /* Grid */
 .grid { display: grid; }
@@ -202,9 +205,6 @@ button:disabled {
   border-radius: 8px;
   padding: 1.5rem;
   transition: transform 0.1s ease, background-color 0.2s, border-color 0.2s;
-}
-.card.cursor-pointer {
-  cursor: pointer;
 }
 .card.cursor-pointer:hover {
   background-color: var(--surface-color-hover);

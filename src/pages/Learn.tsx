@@ -25,7 +25,7 @@ export default function Learn() {
           {chapters.map((chapter) => (
             <div 
               key={chapter.id} 
-              className="card cursor-pointer hover:border-[var(--primary-color)] transition-colors"
+              className="card cursor-pointer hover-border-primary transition-colors"
               onClick={() => navigate(`/learn/${chapter.number}`)}
               style={{ padding: '1.5rem', display: 'flex', alignItems: 'center' }}
             >

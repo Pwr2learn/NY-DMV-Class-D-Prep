@@ -48,7 +48,7 @@ export default function Practice() {
             {topics.map(topic => (
                 <div 
                   key={topic} 
-                  className="card cursor-pointer hover:border-[var(--primary-color)] transition-colors text-center"
+                  className="card cursor-pointer hover-border-primary transition-colors text-center"
                   onClick={() => navigate(`/practice/${topic}`)}
                   style={{ padding: '2rem 1rem' }}
                 >
