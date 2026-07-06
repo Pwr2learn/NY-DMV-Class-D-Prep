@@ -1,10 +1,10 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { useAppContext } from '../contexts/AppContext';
-import { Settings, Moon, Sun, Languages } from 'lucide-react';
+import { Settings, Moon, Sun } from 'lucide-react';
 
 export function Layout({ children }: { children: React.ReactNode }) {
-  const { theme, setTheme, language, setLanguage, fontSize, setFontSize, t } = useAppContext();
+  const { theme, setTheme, fontSize, setFontSize, t } = useAppContext();
 
   const toggleTheme = () => {
     setTheme(theme === 'light' ? 'dark' : 'light');
