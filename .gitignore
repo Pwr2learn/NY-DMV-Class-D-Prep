@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Agent and AI configuration files
+.agent/
+AGENTS.md
+GEMINI.md
+START_HERE.md
+AI_BUILD_PROMPT.md
