@@ -14,7 +14,7 @@ import Help from './pages/Help';
 function App() {
   return (
     <AppProvider>
-      <Router>
+      <Router basename="/NY-DMV-Class-D-Prep">
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
