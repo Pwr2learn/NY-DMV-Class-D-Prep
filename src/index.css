@@ -206,10 +206,10 @@ button:disabled {
 .card.cursor-pointer {
   cursor: pointer;
 }
-.card.cursor-pointer:not(:disabled):hover {
+.card.cursor-pointer:hover {
   background-color: var(--surface-color-hover);
 }
-.card.cursor-pointer:active:not(:disabled) {
+.card.cursor-pointer:active {
   transform: scale(0.98);
 }
 
