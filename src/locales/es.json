@@ -39,7 +39,10 @@
     "submit": "Enviar Prueba",
     "earlyFailWarning": "Ya no puedes aprobar este intento, pero puedes terminar la prueba para ver tu revisión completa.",
     "finishAnyway": "Terminar Prueba de Todos Modos",
-    "stopTest": "Detener Prueba"
+    "stopTest": "Detener Prueba",
+    "selectDifficulty": "Selecciona tu nivel de dificultad para comenzar.",
+    "loading": "Cargando...",
+    "notice": "Aviso"
   },
   "results": {
     "pass": "¡Aprobado!",
@@ -51,7 +54,12 @@
     "reviewMissed": "Revisar Preguntas Fallidas",
     "retake": "Volver a Tomar Prueba",
     "practiceWeak": "Practicar Áreas Débiles",
-    "returnHome": "Volver al Inicio"
+    "returnHome": "Volver al Inicio",
+    "question": "P: ",
+    "yourAnswer": "Tu Respuesta: ",
+    "correctAnswer": "Respuesta Correcta: ",
+    "explanation": "Explicación: ",
+    "source": "Fuente: "
   },
   "helpPage": {
     "howToUseTitle": "Cómo Usar Esta Aplicación",
@@ -65,5 +73,24 @@
     "mockExpertDesc": " 50 preguntas. Necesitas 49/50 en total y 90% de señales de tránsito para aprobar.",
     "accessibilityTitle": "Accesibilidad",
     "accessibilityText": "Usa los botones en la parte superior derecha para cambiar el idioma (EN/ES), alternar el modo oscuro/claro, o cambiar el tamaño de la letra."
+  },
+  "learn": {
+    "underConstruction": "En Construcción",
+    "description": "Esta sección contendrá lecciones capítulo por capítulo extraídas del manual del DMV de NY."
+  },
+  "practice": {
+    "underConstruction": "En Construcción",
+    "description": "Esta sección te permitirá practicar preguntas por temas específicos como Señales de Tránsito, Derecho de Paso, etc."
+  },
+  "progress": {
+    "readinessLevel": "Nivel de Preparación",
+    "keepTakingTests": "¡Sigue tomando Pruebas Simuladas para mejorar tu preparación!",
+    "overallAccuracy": "Precisión General",
+    "correctOutOf": "{{correct}} correctas de {{total}}",
+    "roadSignAccuracy": "Precisión en Señales",
+    "mockTestsTaken": "Pruebas Tomadas",
+    "bestScore": "Mejor Puntuación",
+    "areasToImprove": "Áreas por Mejorar",
+    "mistakes": "{{count}} errores"
   }
 }

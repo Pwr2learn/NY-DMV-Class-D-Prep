@@ -8,9 +8,9 @@ export default function Learn() {
       <div style={{ width: '100%', maxWidth: '800px' }}>
         <h1 className="mb-4 text-center">{t('nav.learn')}</h1>
         <div className="card">
-            <h2>Under Construction</h2>
-            <p className="mt-2 text-sm" style={{ color: 'var(--border-color)' }}>
-                This section will contain chapter-by-chapter lessons extracted from the NY DMV manual.
+            <h2>{t('learn.underConstruction')}</h2>
+            <p className="mt-2 text-sm" style={{ opacity: 0.8 }}>
+                {t('learn.description')}
             </p>
         </div>
       </div>

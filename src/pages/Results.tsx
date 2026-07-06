@@ -60,16 +60,16 @@ export default function Results() {
 
       {result.missedQuestions.length > 0 && (
         <div className="mt-8" style={{ width: '100%', maxWidth: '800px' }}>
-          <h2 className="mb-4">Review Missed Questions</h2>
+          <h2 className="mb-4">{t('results.reviewMissed')}</h2>
           <div className="flex flex-col gap-4">
             {result.missedQuestions.map((q, i) => (
               <div key={i} className="card">
-                <p className="font-bold mb-2">Q: {q.question}</p>
-                <p style={{ color: 'var(--error-color)' }} className="mb-1">Your Answer: {result.userAnswers[q.id]}</p>
-                <p style={{ color: 'var(--success-color)' }} className="mb-2">Correct Answer: {q.correctAnswer}</p>
+                <p className="font-bold mb-2">{t('results.question')}{q.question}</p>
+                <p style={{ color: 'var(--error-color)' }} className="mb-1">{t('results.yourAnswer')}{result.userAnswers[q.id]}</p>
+                <p style={{ color: 'var(--success-color)' }} className="mb-2">{t('results.correctAnswer')}{q.correctAnswer}</p>
                 <div style={{ padding: '1rem', backgroundColor: 'var(--bg-color)', borderRadius: '4px', fontSize: 'var(--font-sm)' }}>
-                    <strong>Explanation:</strong> {q.explanation} <br/>
-                    <em>Source: {q.source}</em>
+                    <strong>{t('results.explanation')}</strong> {q.explanation} <br/>
+                    <em>{t('results.source')} {q.source}</em>
                 </div>
               </div>
             ))}

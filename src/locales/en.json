@@ -39,7 +39,10 @@
     "submit": "Submit Test",
     "earlyFailWarning": "You are no longer able to pass this attempt, but you can finish the test to see your full review.",
     "finishAnyway": "Finish Test Anyway",
-    "stopTest": "Stop Test"
+    "stopTest": "Stop Test",
+    "selectDifficulty": "Select your difficulty mode to begin.",
+    "loading": "Loading...",
+    "notice": "Notice"
   },
   "results": {
     "pass": "Passed!",
@@ -51,7 +54,12 @@
     "reviewMissed": "Review Missed Questions",
     "retake": "Retake Test",
     "practiceWeak": "Practice Weak Areas",
-    "returnHome": "Return Home"
+    "returnHome": "Return Home",
+    "question": "Q: ",
+    "yourAnswer": "Your Answer: ",
+    "correctAnswer": "Correct Answer: ",
+    "explanation": "Explanation: ",
+    "source": "Source: "
   },
   "helpPage": {
     "howToUseTitle": "How to Use This App",
@@ -65,5 +73,24 @@
     "mockExpertDesc": " 50 questions. Need 49/50 total and 90% road signs to pass.",
     "accessibilityTitle": "Accessibility",
     "accessibilityText": "Use the buttons in the top right to change the language (EN/ES), toggle dark/light mode, or change the font size."
+  },
+  "learn": {
+    "underConstruction": "Under Construction",
+    "description": "This section will contain chapter-by-chapter lessons extracted from the NY DMV manual."
+  },
+  "practice": {
+    "underConstruction": "Under Construction",
+    "description": "This section will allow you to practice questions by specific topics like Road Signs, Right of Way, etc."
+  },
+  "progress": {
+    "readinessLevel": "Readiness Level",
+    "keepTakingTests": "Keep taking Mock Tests to improve your readiness!",
+    "overallAccuracy": "Overall Accuracy",
+    "correctOutOf": "{{correct}} correct out of {{total}}",
+    "roadSignAccuracy": "Road Sign Accuracy",
+    "mockTestsTaken": "Mock Tests Taken",
+    "bestScore": "Best Score",
+    "areasToImprove": "Areas to Improve",
+    "mistakes": "{{count}} mistakes"
   }
 }

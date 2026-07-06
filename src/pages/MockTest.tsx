@@ -93,7 +93,7 @@ export default function MockTest() {
     return (
       <div className="flex flex-col items-center justify-center text-center mt-4">
         <h1 className="mb-4 text-2xl font-bold">{t('nav.mockTest')}</h1>
-        <p className="mb-4">Select your difficulty mode to begin.</p>
+        <p className="mb-4">{t('test.selectDifficulty')}</p>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4" style={{ maxWidth: '800px', width: '100%' }}>
           <button className="btn-primary" style={{ padding: '1.5rem' }} onClick={() => startTest('normal')}>
@@ -114,7 +114,7 @@ export default function MockTest() {
       return (
           <div className="flex flex-col items-center justify-center text-center mt-4">
               <div className="warning-alert max-w-lg">
-                  <h3 className="font-bold mb-2">Notice</h3>
+                  <h3 className="font-bold mb-2">{t('test.notice')}</h3>
                   <p className="mb-4">{t('test.earlyFailWarning')}</p>
                   <div className="flex gap-4 justify-center">
                       <button className="btn-secondary" onClick={() => { setContinueAfterFail(true); setEarlyFailWarning(false); nextQuestion(); }}>
@@ -129,7 +129,7 @@ export default function MockTest() {
       )
   }
 
-  if (questions.length === 0) return <div>Loading...</div>;
+  if (questions.length === 0) return <div>{t('test.loading')}</div>;
 
   const currentQ = questions[currentIndex];
   const selectedAnswer = userAnswers[currentQ.id];

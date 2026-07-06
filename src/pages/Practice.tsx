@@ -8,9 +8,9 @@ export default function Practice() {
       <div style={{ width: '100%', maxWidth: '800px' }}>
         <h1 className="mb-4 text-center">{t('nav.practice')}</h1>
         <div className="card">
-            <h2>Under Construction</h2>
-            <p className="mt-2 text-sm" style={{ color: 'var(--border-color)' }}>
-                This section will allow you to practice questions by specific topics like Road Signs, Right of Way, etc.
+            <h2>{t('practice.underConstruction')}</h2>
+            <p className="mt-2 text-sm" style={{ opacity: 0.8 }}>
+                {t('practice.description')}
             </p>
         </div>
       </div>
