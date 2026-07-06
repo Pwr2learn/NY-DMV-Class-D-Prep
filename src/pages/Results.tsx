@@ -1,7 +1,6 @@
-import React from 'react';
 import { useLocation, useNavigate, Navigate } from 'react-router-dom';
 import { useAppContext } from '../contexts/AppContext';
-import { QuizResult } from '../types';
+import type { QuizResult } from '../types';
 
 export default function Results() {
   const { t } = useAppContext();

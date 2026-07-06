@@ -1,5 +1,5 @@
-import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import { Language, Theme, FontSize, UserProgress } from '../types';
+import { createContext, useContext, useState, useEffect, type ReactNode } from 'react';
+import type { Language, Theme, FontSize, UserProgress } from '../types';
 import { loadProgress, saveProgress } from '../lib/progress';
 
 import en from '../locales/en.json';

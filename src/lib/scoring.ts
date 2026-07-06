@@ -1,4 +1,4 @@
-import { Question, QuizResult } from '../types';
+import type { Question, QuizResult } from '../types';
 
 export function calculateScore(
   questions: Question[],
@@ -67,7 +67,7 @@ export function calculateScore(
 }
 
 export function canStillPass(
-  questionsLeft: number,
+  _questionsLeft: number,
   currentIncorrect: number,
   currentRoadSignIncorrect: number,
   mode: 'normal' | 'hard' | 'expert',

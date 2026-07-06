@@ -1,4 +1,4 @@
-import { UserProgress, QuizResult } from '../types';
+import type { UserProgress, QuizResult } from '../types';
 
 const PROGRESS_KEY = 'ny_dmv_progress';
 

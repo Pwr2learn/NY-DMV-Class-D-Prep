@@ -1,7 +1,7 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../contexts/AppContext';
-import { Question, QuizResult } from '../types';
+import type { Question } from '../types';
 import { generateMockTest } from '../lib/quizEngine';
 import { calculateScore, canStillPass } from '../lib/scoring';
 import { updateProgressWithResult } from '../lib/progress';
@@ -19,7 +19,7 @@ export default function MockTest() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [userAnswers, setUserAnswers] = useState<Record<string, string>>({});
-  const [isFinished, setIsFinished] = useState(false);
+  const [, setIsFinished] = useState(false);
   const [earlyFailWarning, setEarlyFailWarning] = useState(false);
   const [continueAfterFail, setContinueAfterFail] = useState(false);
 
