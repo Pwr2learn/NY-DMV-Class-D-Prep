@@ -1,0 +1,287 @@
+[
+  {
+    "id": "es_ch1_001",
+    "language": "es",
+    "chapter": 1,
+    "topic": "licenses",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuál es la edad mínima para obtener una licencia de conducir Clase D en Nueva York sin Educación Vial?",
+    "choices": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "correctAnswer": "18",
+    "explanation": "Debe tener 18 años, o 17 con un certificado de educación vial, para obtener una licencia de conducir senior.",
+    "source": "Capítulo 1"
+  },
+  {
+    "id": "es_ch1_002",
+    "language": "es",
+    "chapter": 1,
+    "topic": "restrictions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Si tiene un Permiso de Aprendizaje Junior (Clase DJ), ¿entre qué horas tiene totalmente prohibido conducir en el norte del estado de NY?",
+    "choices": [
+      "9 PM y 5 AM",
+      "10 PM y 5 AM",
+      "Medianoche y 5 AM",
+      "Puede conducir en cualquier momento con un padre"
+    ],
+    "correctAnswer": "9 PM y 5 AM",
+    "explanation": "En el norte de NY, no puede conducir entre las 9 PM y las 5 AM con un permiso DJ a menos que vaya al trabajo/escuela con documentación.",
+    "source": "Capítulo 1"
+  },
+  {
+    "id": "es_ch2_001",
+    "language": "es",
+    "chapter": 2,
+    "topic": "points",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuántos puntos en su historial de manejo dentro de 18 meses resultarán en la suspensión de la licencia?",
+    "choices": [
+      "6",
+      "8",
+      "11",
+      "15"
+    ],
+    "correctAnswer": "11",
+    "explanation": "Si recibe 11 puntos en 18 meses, su licencia puede ser suspendida.",
+    "source": "Capítulo 2"
+  },
+  {
+    "id": "es_ch2_002",
+    "language": "es",
+    "chapter": 2,
+    "topic": "suspensions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuál es la sanción por conducir sin seguro?",
+    "choices": [
+      "Una multa de $50",
+      "Revocación de su licencia de conducir por al menos un año",
+      "3 puntos en su licencia",
+      "Una advertencia por escrito"
+    ],
+    "correctAnswer": "Revocación de su licencia de conducir por al menos un año",
+    "explanation": "Conducir sin seguro conlleva sanciones severas, incluyendo la revocación de la licencia por al menos un año.",
+    "source": "Capítulo 2"
+  },
+  {
+    "id": "es_ch2_003",
+    "language": "es",
+    "chapter": 2,
+    "topic": "points",
+    "difficulty": "expert",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuántos puntos es ir a exceso de velocidad 21 a 30 mph por encima del límite?",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Ir a exceso de velocidad 21 a 30 mph sobre el límite suma 6 puntos a su récord.",
+    "source": "Capítulo 2"
+  },
+  {
+    "id": "es_ch3_001",
+    "language": "es",
+    "chapter": 3,
+    "topic": "registration",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Con qué frecuencia debe inspeccionarse su vehículo en el estado de Nueva York?",
+    "choices": [
+      "Cada 6 meses",
+      "Una vez al año",
+      "Cada 2 años",
+      "Solo al comprar un auto nuevo"
+    ],
+    "correctAnswer": "Una vez al año",
+    "explanation": "Todos los vehículos registrados en NY deben obtener una inspección de seguridad y emisiones cada 12 meses.",
+    "source": "Capítulo 3"
+  },
+  {
+    "id": "es_ch3_002",
+    "language": "es",
+    "chapter": 3,
+    "topic": "insurance",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Qué debe hacer con las placas de su auto si cancela su seguro?",
+    "choices": [
+      "Guardarlas en su garaje",
+      "Tirarlas",
+      "Entregarlas al DMV",
+      "Dárselas al nuevo propietario"
+    ],
+    "correctAnswer": "Entregarlas al DMV",
+    "explanation": "Debe entregar sus placas al DMV ANTES de que termine su cobertura de seguro de responsabilidad.",
+    "source": "Capítulo 3"
+  },
+  {
+    "id": "es_ch4_006",
+    "language": "es",
+    "chapter": 4,
+    "topic": "road_signs",
+    "difficulty": "normal",
+    "isRoadSign": true,
+    "status": "approved",
+    "question": "¿Qué significa una doble línea amarilla sólida en el centro de la carretera?",
+    "choices": [
+      "Se permite pasar",
+      "Está prohibido pasar para ambas direcciones",
+      "Tráfico en un solo sentido",
+      "Carril central de giro"
+    ],
+    "correctAnswer": "Está prohibido pasar para ambas direcciones",
+    "explanation": "Las líneas amarillas dobles sólidas indican que no puede pasar ni cruzarlas excepto para girar a la izquierda en una entrada.",
+    "source": "Capítulo 4"
+  },
+  {
+    "id": "es_ch4_007",
+    "language": "es",
+    "chapter": 4,
+    "topic": "traffic_lights",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Qué debe hacer ante un semáforo rojo intermitente?",
+    "choices": [
+      "Disminuir la velocidad y ceder el paso",
+      "Detenerse, luego avanzar cuando sea seguro",
+      "Acelerar para despejar la intersección",
+      "Esperar a que se ponga verde"
+    ],
+    "correctAnswer": "Detenerse, luego avanzar cuando sea seguro",
+    "explanation": "Una luz roja intermitente significa lo mismo que una señal de alto.",
+    "source": "Capítulo 4"
+  },
+  {
+    "id": "es_ch4_008",
+    "language": "es",
+    "chapter": 4,
+    "topic": "road_signs",
+    "difficulty": "hard",
+    "isRoadSign": true,
+    "status": "approved",
+    "question": "Una señal en forma de diamante con un dibujo de un ciervo significa:",
+    "choices": [
+      "Zoológico más adelante",
+      "Área de cruce de ciervos",
+      "Se permite cazar",
+      "No se permiten animales"
+    ],
+    "correctAnswer": "Área de cruce de ciervos",
+    "explanation": "Las señales de diamante son de advertencia. Esta advierte que los ciervos a menudo cruzan la carretera.",
+    "source": "Capítulo 4"
+  },
+  {
+    "id": "es_ch5_001",
+    "language": "es",
+    "chapter": 5,
+    "topic": "right_of_way",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Si llega a una intersección de cuatro paradas al mismo tiempo que otro conductor, ¿quién tiene el derecho de paso?",
+    "choices": [
+      "El conductor que va recto",
+      "El conductor de la derecha",
+      "El conductor de la izquierda",
+      "El conductor que gira a la derecha"
+    ],
+    "correctAnswer": "El conductor de la derecha",
+    "explanation": "Si dos conductores llegan simultáneamente, el de la izquierda debe ceder el paso al de la derecha.",
+    "source": "Capítulo 5"
+  },
+  {
+    "id": "es_ch5_002",
+    "language": "es",
+    "chapter": 5,
+    "topic": "right_of_way",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuándo debe ceder el paso a un peatón con un bastón blanco o perro guía?",
+    "choices": [
+      "Solo en cruces peatonales marcados",
+      "Solo cuando la luz es verde",
+      "En todo momento",
+      "Solo en zonas escolares"
+    ],
+    "correctAnswer": "En todo momento",
+    "explanation": "Siempre debe ceder el derecho de paso a un peatón ciego, sin importar cruces o semáforos.",
+    "source": "Capítulo 5"
+  },
+  {
+    "id": "es_ch5_003",
+    "language": "es",
+    "chapter": 5,
+    "topic": "turning",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Con cuánta anticipación debe poner la señal antes de hacer un giro?",
+    "choices": [
+      "50 pies",
+      "100 pies",
+      "200 pies",
+      "300 pies"
+    ],
+    "correctAnswer": "100 pies",
+    "explanation": "La ley exige que señale un giro o cambio de carril al menos 100 pies antes.",
+    "source": "Capítulo 5"
+  },
+  {
+    "id": "es_ch6_001",
+    "language": "es",
+    "chapter": 6,
+    "topic": "passing",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuándo está legalmente permitido pasar a un vehículo por la derecha?",
+    "choices": [
+      "Cuando va demasiado lento",
+      "Cuando el vehículo de adelante está girando a la izquierda y hay espacio en el pavimento",
+      "Cualquier momento en una carretera de dos carriles",
+      "Nunca"
+    ],
+    "correctAnswer": "Cuando el vehículo de adelante está girando a la izquierda y hay espacio en el pavimento",
+    "explanation": "Puede pasar por la derecha si un vehículo gira a la izquierda y usted no sale del camino pavimentado.",
+    "source": "Capítulo 6"
+  },
+  {
+    "id": "es_ch6_002",
+    "language": "es",
+    "chapter": 6,
+    "topic": "passing",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Después de rebasar a un vehículo, ¿cuándo es seguro volver al carril derecho?",
+    "choices": [
+      "Inmediatamente",
+      "Cuando puede ver las luces del vehículo rebasado en su espejo retrovisor",
+      "Después de 5 segundos",
+      "Cuando el conductor toca la bocina"
+    ],
+    "correctAnswer": "Cuando puede ver las luces del vehículo rebasado en su espejo retrovisor",
+    "explanation": "Revisar su retrovisor asegura tener suficiente espacio antes de volver al carril.",
+    "source": "Capítulo 6"
+  }
+]

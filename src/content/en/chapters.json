@@ -1,5 +1,29 @@
 [
   {
+    "id": "en_ch1",
+    "language": "en",
+    "number": 1,
+    "title": "Driver Licenses",
+    "summary": "Types of licenses, Junior operators, and restrictions.",
+    "topics": ["licenses", "restrictions"]
+  },
+  {
+    "id": "en_ch2",
+    "language": "en",
+    "number": 2,
+    "title": "How to Keep Your License",
+    "summary": "Point systems, suspensions, and revocations.",
+    "topics": ["points", "suspensions"]
+  },
+  {
+    "id": "en_ch3",
+    "language": "en",
+    "number": 3,
+    "title": "Owning a Vehicle",
+    "summary": "Registration, inspection, and insurance.",
+    "topics": ["insurance", "registration"]
+  },
+  {
     "id": "en_ch4",
     "language": "en",
     "number": 4,
@@ -62,5 +86,13 @@
     "title": "Sharing the Road",
     "summary": "Pedestrians, bicycles, and emergency vehicles.",
     "topics": ["school_buses", "emergency_vehicles"]
+  },
+  {
+    "id": "en_ch12",
+    "language": "en",
+    "number": 12,
+    "title": "If You Are in a Traffic Crash",
+    "summary": "Legal requirements and emergency steps after a crash.",
+    "topics": ["crashes", "emergencies"]
   }
 ]

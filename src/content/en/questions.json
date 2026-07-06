@@ -102,16 +102,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "If two drivers arrive at an intersection without traffic signs or signals at the same time, who has the right-of-way?",
+    "question": "If you arrive at a four-way stop at the same time as another driver, who has the right-of-way?",
     "choices": [
-      "The driver on the left",
+      "The driver going straight",
       "The driver on the right",
-      "The driver who goes first",
-      "The driver traveling faster"
+      "The driver on the left",
+      "The driver turning right"
     ],
     "correctAnswer": "The driver on the right",
-    "explanation": "If two drivers arrive at an intersection from different highways at the same time, the driver on the left must yield to the driver on the right.",
-    "source": "NY DMV Manual, Chapter 5"
+    "explanation": "If two drivers arrive at a four-way stop simultaneously, the driver on the left must yield to the driver on the right.",
+    "source": "Chapter 5"
   },
   {
     "id": "en_ch9_001",
@@ -121,16 +121,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "In New York State, you are legally considered to be driving while intoxicated (DWI) if your Blood Alcohol Content (BAC) is:",
+    "question": "What is the legal Blood Alcohol Content (BAC) limit for drivers age 21 or older in New York?",
     "choices": [
-      "0.05% or higher",
-      "0.08% or higher",
-      "0.10% or higher",
-      "0.15% or higher"
+      "0.02%",
+      "0.05%",
+      "0.08%",
+      "0.10%"
     ],
-    "correctAnswer": "0.08% or higher",
-    "explanation": "A BAC of 0.08% or higher is legal evidence of intoxication.",
-    "source": "NY DMV Manual, Chapter 9"
+    "correctAnswer": "0.08%",
+    "explanation": "You are legally intoxicated if your BAC is 0.08% or higher if you are 21 or older.",
+    "source": "Chapter 9"
   },
   {
     "id": "en_ch8_001",
@@ -140,35 +140,35 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "To maintain a good space cushion between your vehicle and the one ahead, you should use the:",
+    "question": "What is the recommended following distance under ideal conditions?",
     "choices": [
-      "Two-second rule",
-      "Three-second rule",
-      "Four-second rule",
-      "Ten-second rule"
+      "1 second",
+      "2 seconds",
+      "3 seconds",
+      "5 seconds"
     ],
-    "correctAnswer": "Two-second rule",
-    "explanation": "The NY DMV manual recommends using the 'two-second rule' under normal driving conditions.",
-    "source": "NY DMV Manual, Chapter 8"
+    "correctAnswer": "2 seconds",
+    "explanation": "The \"two-second rule\" is the minimum recommended following distance under ideal driving conditions.",
+    "source": "Chapter 8"
   },
   {
     "id": "en_ch8_002",
     "language": "en",
     "chapter": 8,
     "topic": "defensive_driving",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "If you are being tailgated, you should:",
+    "question": "If you have a tire blowout, what is the first thing you should do?",
     "choices": [
-      "Brake hard",
-      "Speed up",
-      "Move to another lane or slow down",
-      "Flash your brake lights repeatedly"
+      "Slam on the brakes",
+      "Hold the steering wheel firmly and ease off the gas",
+      "Pull the parking brake",
+      "Turn off the engine"
     ],
-    "correctAnswer": "Move to another lane or slow down",
-    "explanation": "If a driver follows you too closely, move to another lane if possible, or reduce speed and pull to the right to encourage them to pass.",
-    "source": "NY DMV Manual, Chapter 8"
+    "correctAnswer": "Hold the steering wheel firmly and ease off the gas",
+    "explanation": "Do not panic or hit the brakes hard. Hold the steering wheel firmly, ease your foot off the gas, and brake gently once the vehicle is under control.",
+    "source": "Chapter 8"
   },
   {
     "id": "en_ch11_001",
@@ -178,16 +178,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "When a school bus stops and flashes its red lights, you must:",
+    "question": "When a stopped school bus has its red lights flashing on a divided highway, you must:",
     "choices": [
       "Slow down and pass carefully",
-      "Stop, but only if you are behind the bus",
-      "Stop at least 20 feet away from the bus in either direction",
-      "Stop and honk your horn"
+      "Stop only if you are on the same side as the bus",
+      "Stop, even if you are on the opposite side of a divided highway",
+      "Honk and proceed"
     ],
-    "correctAnswer": "Stop at least 20 feet away from the bus in either direction",
-    "explanation": "You must stop at least 20 feet away from a school bus with flashing red lights, regardless of which side of the road you are on.",
-    "source": "NY DMV Manual, Chapter 11"
+    "correctAnswer": "Stop, even if you are on the opposite side of a divided highway",
+    "explanation": "In NY, you must stop for a school bus with flashing red lights regardless of which side of a divided highway you are on.",
+    "source": "Chapter 11"
   },
   {
     "id": "en_ch6_001",
@@ -197,16 +197,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "When is it legal to pass another vehicle on the right?",
+    "question": "When is it legally permitted to pass a vehicle on the right?",
     "choices": [
-      "When the vehicle ahead is making a left turn",
-      "On a one-way street",
-      "On a multi-lane highway",
-      "All of the above"
+      "When they are going too slow",
+      "When the vehicle ahead is making a left turn and there is room on the pavement",
+      "Any time on a two-lane road",
+      "Never"
     ],
-    "correctAnswer": "All of the above",
-    "explanation": "You can normally pass on the right only when the vehicle ahead is making a left turn, you are on a two-way road with marked lanes, or on a one-way road.",
-    "source": "NY DMV Manual, Chapter 6"
+    "correctAnswer": "When the vehicle ahead is making a left turn and there is room on the pavement",
+    "explanation": "You may pass on the right if a vehicle is making a left turn and you do not leave the paved road.",
+    "source": "Chapter 6"
   },
   {
     "id": "en_ch10_001",
@@ -216,16 +216,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "When driving in fog, you should use:",
+    "question": "When must you use your headlights in New York State?",
     "choices": [
-      "High beam headlights",
-      "Low beam headlights",
-      "Parking lights only",
-      "Hazard lights"
+      "From 1/2 hour after sunset to 1/2 hour before sunrise",
+      "Only when it is completely dark",
+      "From 8 PM to 6 AM",
+      "Only when driving outside city limits"
     ],
-    "correctAnswer": "Low beam headlights",
-    "explanation": "High beams reflect off the fog and decrease visibility. Use low beams for best visibility in fog, rain, or snow.",
-    "source": "NY DMV Manual, Chapter 10"
+    "correctAnswer": "From 1/2 hour after sunset to 1/2 hour before sunrise",
+    "explanation": "Headlights must be used from a half hour after sunset to a half hour before sunrise, or when visibility is less than 1,000 feet.",
+    "source": "Chapter 10"
   },
   {
     "id": "en_ch7_001",
@@ -235,35 +235,35 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "You may not park within how many feet of a fire hydrant?",
+    "question": "How close to a fire hydrant are you allowed to park?",
     "choices": [
       "10 feet",
       "15 feet",
       "20 feet",
-      "25 feet"
+      "50 feet"
     ],
     "correctAnswer": "15 feet",
-    "explanation": "You cannot park, stop, or stand within 15 feet of a fire hydrant unless a licensed driver remains in the vehicle to move it in an emergency.",
-    "source": "NY DMV Manual, Chapter 7"
+    "explanation": "You may not park within 15 feet of a fire hydrant, unless a licensed driver remains in the vehicle to move it in an emergency.",
+    "source": "Chapter 7"
   },
   {
     "id": "en_ch7_002",
     "language": "en",
     "chapter": 7,
     "topic": "parking",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "When parking downhill on a street with a curb, you should turn your wheels:",
+    "question": "When parking on a hill facing uphill with a curb, which way should you turn your wheels?",
     "choices": [
-      "Toward the curb",
       "Away from the curb",
+      "Toward the curb",
       "Straight ahead",
-      "It does not matter"
+      "It doesn't matter"
     ],
-    "correctAnswer": "Toward the curb",
-    "explanation": "When parking downhill with a curb, turn your wheels to the right (toward the curb) so the vehicle will roll into the curb if the brakes fail.",
-    "source": "NY DMV Manual, Chapter 7"
+    "correctAnswer": "Away from the curb",
+    "explanation": "When parking facing uphill with a curb, turn your wheels away from the curb so if the vehicle rolls, the tires hit the curb and stop.",
+    "source": "Chapter 7"
   },
   {
     "id": "en_ch7_003",
@@ -288,20 +288,20 @@
     "id": "en_ch4_006",
     "language": "en",
     "chapter": 4,
-    "topic": "traffic_lights",
+    "topic": "road_signs",
     "difficulty": "normal",
-    "isRoadSign": false,
+    "isRoadSign": true,
     "status": "approved",
-    "question": "What does a flashing red light mean?",
+    "question": "What does a solid double yellow line down the center of the roadway mean?",
     "choices": [
-      "Slow down and proceed with caution",
-      "Stop, yield the right-of-way, and go when it is safe",
-      "The traffic signal is broken",
-      "Detour ahead"
+      "Passing is permitted",
+      "Passing is prohibited for both directions",
+      "One-way traffic",
+      "Center turn lane"
     ],
-    "correctAnswer": "Stop, yield the right-of-way, and go when it is safe",
-    "explanation": "A flashing red light means the same thing as a stop sign: stop, yield the right-of-way, and go when it is safe.",
-    "source": "NY DMV Manual, Chapter 4"
+    "correctAnswer": "Passing is prohibited for both directions",
+    "explanation": "Solid double yellow lines indicate that you cannot pass or cross them except to turn left into a driveway.",
+    "source": "Chapter 4"
   },
   {
     "id": "en_ch4_007",
@@ -311,35 +311,35 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "What does a steady yellow light mean?",
+    "question": "What must you do at a flashing red traffic light?",
     "choices": [
-      "The light is about to turn red, be prepared to stop",
+      "Slow down and yield",
+      "Stop, then proceed when safe",
       "Speed up to clear the intersection",
-      "Stop immediately",
-      "Proceed with caution"
+      "Wait for it to turn green"
     ],
-    "correctAnswer": "The light is about to turn red, be prepared to stop",
-    "explanation": "A steady yellow light means the light will change from green to red. Be prepared to stop for the red light.",
-    "source": "NY DMV Manual, Chapter 4"
+    "correctAnswer": "Stop, then proceed when safe",
+    "explanation": "A flashing red light means the same thing as a stop sign.",
+    "source": "Chapter 4"
   },
   {
     "id": "en_ch5_002",
     "language": "en",
     "chapter": 5,
     "topic": "right_of_way",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "You want to turn left at an intersection. The light is green but oncoming traffic is heavy. You should:",
+    "question": "When must you yield to a pedestrian using a white cane or guide dog?",
     "choices": [
-      "Wait in the center of the intersection for traffic to clear",
-      "Wait at the crosswalk for traffic to clear",
-      "Force your way through",
-      "Turn on your hazard lights"
+      "Only at marked crosswalks",
+      "Only when the light is green",
+      "At all times",
+      "Only in school zones"
     ],
-    "correctAnswer": "Wait in the center of the intersection for traffic to clear",
-    "explanation": "When turning left, you may enter the intersection to prepare for your turn if the light is green and no other vehicle ahead of you is turning left. Wait for oncoming traffic to clear before completing your turn.",
-    "source": "NY DMV Manual, Chapter 5"
+    "correctAnswer": "At all times",
+    "explanation": "You must always yield the right-of-way to a blind pedestrian, regardless of crosswalks or traffic signals.",
+    "source": "Chapter 5"
   },
   {
     "id": "en_ch11_002",
@@ -349,35 +349,35 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "You hear a siren or see flashing red or blue lights of an emergency vehicle approaching from behind. You must:",
+    "question": "What must you do when an emergency vehicle approaches with sirens and flashing lights?",
     "choices": [
-      "Speed up and get out of the way",
-      "Stop immediately where you are",
+      "Speed up to get out of its way",
+      "Stop immediately in your lane",
       "Pull over to the right edge of the road and stop",
-      "Continue driving at the same speed"
+      "Move to the left lane"
     ],
     "correctAnswer": "Pull over to the right edge of the road and stop",
-    "explanation": "You must yield the right-of-way to fire, ambulance, police and other authorized emergency vehicles when they respond to emergencies. Pull over to the right edge of the road and stop.",
-    "source": "NY DMV Manual, Chapter 11"
+    "explanation": "You must yield the right-of-way to fire, ambulance, police and other authorized emergency vehicles by pulling over to the right and stopping.",
+    "source": "Chapter 11"
   },
   {
     "id": "en_ch9_002",
     "language": "en",
     "chapter": 9,
     "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Under the 'Zero Tolerance Law', what is the legal BAC limit for drivers under 21?",
+    "question": "Under the \"Zero Tolerance Law\", what is the BAC limit for a driver under age 21?",
     "choices": [
-      "0.08%",
-      "0.05%",
+      "0.00%",
       "0.02%",
-      "0.00%"
+      "0.05%",
+      "0.08%"
     ],
     "correctAnswer": "0.02%",
-    "explanation": "For drivers under 21, the legal limit is 0.02%. This law addresses minors who drive after consuming any alcohol.",
-    "source": "NY DMV Manual, Chapter 9"
+    "explanation": "The Zero Tolerance law applies to a person under age 21 who drives with a BAC of 0.02% to 0.07%.",
+    "source": "Chapter 9"
   },
   {
     "id": "en_ch9_003",
@@ -391,1911 +391,277 @@
     "choices": [
       "Drinking coffee",
       "Taking a cold shower",
-      "Time",
-      "Eating food"
+      "Eating a heavy meal",
+      "Time"
     ],
     "correctAnswer": "Time",
-    "explanation": "The only method that effectively reduces your BAC is time. Your body needs time to metabolize the alcohol.",
-    "source": "NY DMV Manual, Chapter 9"
+    "explanation": "Only time can lower your BAC as your body processes the alcohol.",
+    "source": "Chapter 9"
   },
   {
-    "id": "en_ch4_100",
+    "id": "en_ch1_001",
+    "language": "en",
+    "chapter": 1,
+    "topic": "licenses",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What is the minimum age to get a Class D driver license in New York without Driver Education?",
+    "choices": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "correctAnswer": "18",
+    "explanation": "You must be 18, or 17 with a driver education certificate, to get a senior driver license.",
+    "source": "Chapter 1"
+  },
+  {
+    "id": "en_ch1_002",
+    "language": "en",
+    "chapter": 1,
+    "topic": "restrictions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "If you have a Junior Learner Permit (Class DJ), between what hours are you completely forbidden from driving in Upstate NY?",
+    "choices": [
+      "9 PM and 5 AM",
+      "10 PM and 5 AM",
+      "Midnight and 5 AM",
+      "You can drive at any time with a parent"
+    ],
+    "correctAnswer": "9 PM and 5 AM",
+    "explanation": "In upstate NY, you cannot drive between 9 PM and 5 AM with a DJ permit unless going to work/school with documentation.",
+    "source": "Chapter 1"
+  },
+  {
+    "id": "en_ch2_001",
+    "language": "en",
+    "chapter": 2,
+    "topic": "points",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "How many points on your driving record within 18 months will result in a license suspension?",
+    "choices": [
+      "6",
+      "8",
+      "11",
+      "15"
+    ],
+    "correctAnswer": "11",
+    "explanation": "If you receive 11 points in 18 months, your license may be suspended.",
+    "source": "Chapter 2"
+  },
+  {
+    "id": "en_ch2_002",
+    "language": "en",
+    "chapter": 2,
+    "topic": "suspensions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What is the penalty for driving without insurance?",
+    "choices": [
+      "A $50 fine",
+      "Revocation of your driver license for at least one year",
+      "3 points on your license",
+      "A written warning"
+    ],
+    "correctAnswer": "Revocation of your driver license for at least one year",
+    "explanation": "Driving without insurance carries severe penalties, including revocation of your license for at least one year.",
+    "source": "Chapter 2"
+  },
+  {
+    "id": "en_ch2_003",
+    "language": "en",
+    "chapter": 2,
+    "topic": "points",
+    "difficulty": "expert",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "How many points is speeding 21 to 30 mph over the limit?",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Speeding 21 to 30 mph over the limit adds 6 points to your record.",
+    "source": "Chapter 2"
+  },
+  {
+    "id": "en_ch3_001",
+    "language": "en",
+    "chapter": 3,
+    "topic": "registration",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "How often must your vehicle be inspected in New York State?",
+    "choices": [
+      "Every 6 months",
+      "Once a year",
+      "Every 2 years",
+      "Only when buying a new car"
+    ],
+    "correctAnswer": "Once a year",
+    "explanation": "All vehicles registered in NY must get a safety inspection and an emissions inspection every 12 months.",
+    "source": "Chapter 3"
+  },
+  {
+    "id": "en_ch3_002",
+    "language": "en",
+    "chapter": 3,
+    "topic": "insurance",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What must you do with your license plates if you cancel your auto insurance?",
+    "choices": [
+      "Keep them in your garage",
+      "Throw them away",
+      "Surrender them to the DMV",
+      "Give them to the new owner"
+    ],
+    "correctAnswer": "Surrender them to the DMV",
+    "explanation": "You must surrender your plates to the DMV BEFORE your liability insurance coverage ends.",
+    "source": "Chapter 3"
+  },
+  {
+    "id": "en_ch4_008",
     "language": "en",
     "chapter": 4,
     "topic": "road_signs",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": true,
     "status": "approved",
-    "question": "[Generated NY DMV Manual Question 100] What is the primary rule for road signs in chapter 4?",
+    "question": "A diamond-shaped sign with a picture of a deer means:",
     "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
+      "Zoo ahead",
+      "Deer crossing area",
+      "Hunting permitted",
+      "No animals allowed"
     ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
+    "correctAnswer": "Deer crossing area",
+    "explanation": "Diamond signs are warning signs. This warns that deer often cross the road in this area.",
+    "source": "Chapter 4"
   },
   {
-    "id": "en_ch7_101",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 101] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch6_102",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 102] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch4_103",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 103] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch10_104",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 104] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch6_105",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 105] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch6_106",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 106] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch6_107",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 107] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch9_108",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 108] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch10_109",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 109] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch9_110",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 110] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch7_111",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 111] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch6_112",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 112] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch4_113",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 113] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch10_114",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 114] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch4_115",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 115] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch5_116",
+    "id": "en_ch5_003",
     "language": "en",
     "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 116] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch4_117",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 117] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch10_118",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
+    "topic": "turning",
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Generated NY DMV Manual Question 118] What is the primary rule for special conditions in chapter 10?",
+    "question": "How far in advance should you signal before making a turn?",
     "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
+      "50 feet",
+      "100 feet",
+      "200 feet",
+      "300 feet"
     ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
+    "correctAnswer": "100 feet",
+    "explanation": "The law requires you to signal a turn or lane change at least 100 feet ahead.",
+    "source": "Chapter 5"
   },
   {
-    "id": "en_ch5_119",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 119] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch9_120",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 120] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch8_121",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 121] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch6_122",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 122] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch7_123",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 123] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch8_124",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 124] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch7_125",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 125] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch10_126",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 126] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch4_127",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 127] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch8_128",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 128] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch10_129",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 129] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch8_130",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 130] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch8_131",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 131] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch9_132",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 132] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch7_133",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 133] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch9_134",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 134] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch4_135",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 135] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch5_136",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 136] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch7_137",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 137] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch6_138",
+    "id": "en_ch6_002",
     "language": "en",
     "chapter": 6,
     "topic": "passing",
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Generated NY DMV Manual Question 138] What is the primary rule for passing in chapter 6?",
+    "question": "After passing a vehicle, when is it safe to return to the right lane?",
     "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
+      "Immediately",
+      "When you can see the passed vehicle's headlights in your rearview mirror",
+      "After 5 seconds",
+      "When the driver honks"
     ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
+    "correctAnswer": "When you can see the passed vehicle's headlights in your rearview mirror",
+    "explanation": "Checking your rearview mirror ensures you have enough space before moving back into the lane.",
+    "source": "Chapter 6"
   },
   {
-    "id": "en_ch8_139",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 139] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch11_140",
-    "language": "en",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 140] What is the primary rule for school buses in chapter 11?",
-    "choices": [
-      "Always follow the school_buses rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the school_buses rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for school buses.",
-    "source": "NY DMV Manual, Chapter 11"
-  },
-  {
-    "id": "en_ch10_141",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 141] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch4_142",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 142] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch6_143",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 143] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch8_144",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 144] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch8_145",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 145] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch6_146",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 146] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch8_147",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 147] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch5_148",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 148] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch9_149",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 149] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch5_150",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 150] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch10_151",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 151] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch4_152",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 152] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch5_153",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 153] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch10_154",
+    "id": "en_ch10_002",
     "language": "en",
     "chapter": 10,
     "topic": "special_conditions",
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Generated NY DMV Manual Question 154] What is the primary rule for special conditions in chapter 10?",
+    "question": "By law, when your windshield wipers are turned on for rain or snow, what else must be turned on?",
     "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
+      "Your hazard lights",
+      "Your headlights",
+      "Your defroster",
+      "Your interior lights"
     ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
+    "correctAnswer": "Your headlights",
+    "explanation": "New York State law requires you to turn on your headlights when weather conditions require the use of windshield wipers.",
+    "source": "Chapter 10"
   },
   {
-    "id": "en_ch6_155",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 155] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch4_156",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 156] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch4_157",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 157] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch11_158",
-    "language": "en",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 158] What is the primary rule for school buses in chapter 11?",
-    "choices": [
-      "Always follow the school_buses rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the school_buses rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for school buses.",
-    "source": "NY DMV Manual, Chapter 11"
-  },
-  {
-    "id": "en_ch10_159",
+    "id": "en_ch10_003",
     "language": "en",
     "chapter": 10,
     "topic": "special_conditions",
     "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Generated NY DMV Manual Question 159] What is the primary rule for special conditions in chapter 10?",
+    "question": "What is hydroplaning?",
     "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
+      "When a car's engine floods with water",
+      "When tires ride on a layer of water instead of the road surface",
+      "When your brakes freeze in winter",
+      "When a car sinks in a flood"
     ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
+    "correctAnswer": "When tires ride on a layer of water instead of the road surface",
+    "explanation": "Hydroplaning occurs when a layer of water builds between the wheels and the road, leading to a loss of traction.",
+    "source": "Chapter 10"
   },
   {
-    "id": "en_ch9_160",
+    "id": "en_ch12_001",
     "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
+    "chapter": 12,
+    "topic": "crashes",
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Generated NY DMV Manual Question 160] What is the primary rule for alcohol and_drugs in chapter 9?",
+    "question": "If you are involved in a traffic crash resulting in injury, death, or more than $1,000 in property damage, how many days do you have to report it to the DMV?",
     "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
+      "3 days",
+      "5 days",
+      "10 days",
+      "30 days"
     ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
+    "correctAnswer": "10 days",
+    "explanation": "You must file a Report of Motor Vehicle Accident (MV-104) with the DMV within 10 days of a crash meeting these criteria.",
+    "source": "Chapter 12"
   },
   {
-    "id": "en_ch9_161",
+    "id": "en_ch12_002",
     "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
+    "chapter": 12,
+    "topic": "emergencies",
     "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Generated NY DMV Manual Question 161] What is the primary rule for alcohol and_drugs in chapter 9?",
+    "question": "If you hit a parked vehicle and cannot find the owner, what are you legally required to do?",
     "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
+      "Leave immediately",
+      "Wait for 30 minutes, then leave",
+      "Leave a note with your name and contact info, and notify the police",
+      "Honk until someone comes out"
     ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch9_162",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 162] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch9_163",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 163] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch8_164",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 164] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch5_165",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 165] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch6_166",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 166] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch6_167",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 167] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch9_168",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 168] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch11_169",
-    "language": "en",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 169] What is the primary rule for school buses in chapter 11?",
-    "choices": [
-      "Always follow the school_buses rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the school_buses rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for school buses.",
-    "source": "NY DMV Manual, Chapter 11"
-  },
-  {
-    "id": "en_ch5_170",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 170] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch8_171",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 171] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch6_172",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 172] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch9_173",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 173] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch11_174",
-    "language": "en",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 174] What is the primary rule for school buses in chapter 11?",
-    "choices": [
-      "Always follow the school_buses rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the school_buses rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for school buses.",
-    "source": "NY DMV Manual, Chapter 11"
-  },
-  {
-    "id": "en_ch5_175",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 175] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch8_176",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 176] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch9_177",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 177] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch5_178",
-    "language": "en",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 178] What is the primary rule for right of_way in chapter 5?",
-    "choices": [
-      "Always follow the right_of_way rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the right_of_way rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for right of_way.",
-    "source": "NY DMV Manual, Chapter 5"
-  },
-  {
-    "id": "en_ch10_179",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 179] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch9_180",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 180] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch8_181",
-    "language": "en",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 181] What is the primary rule for defensive driving in chapter 8?",
-    "choices": [
-      "Always follow the defensive_driving rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the defensive_driving rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for defensive driving.",
-    "source": "NY DMV Manual, Chapter 8"
-  },
-  {
-    "id": "en_ch9_182",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 182] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch7_183",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 183] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch7_184",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 184] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch4_185",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 185] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch9_186",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 186] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch11_187",
-    "language": "en",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 187] What is the primary rule for school buses in chapter 11?",
-    "choices": [
-      "Always follow the school_buses rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the school_buses rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for school buses.",
-    "source": "NY DMV Manual, Chapter 11"
-  },
-  {
-    "id": "en_ch9_188",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 188] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch4_189",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 189] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch11_190",
-    "language": "en",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 190] What is the primary rule for school buses in chapter 11?",
-    "choices": [
-      "Always follow the school_buses rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the school_buses rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for school buses.",
-    "source": "NY DMV Manual, Chapter 11"
-  },
-  {
-    "id": "en_ch9_191",
-    "language": "en",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 191] What is the primary rule for alcohol and_drugs in chapter 9?",
-    "choices": [
-      "Always follow the alcohol_and_drugs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the alcohol_and_drugs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for alcohol and_drugs.",
-    "source": "NY DMV Manual, Chapter 9"
-  },
-  {
-    "id": "en_ch10_192",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 192] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch6_193",
-    "language": "en",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 193] What is the primary rule for passing in chapter 6?",
-    "choices": [
-      "Always follow the passing rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the passing rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for passing.",
-    "source": "NY DMV Manual, Chapter 6"
-  },
-  {
-    "id": "en_ch10_194",
-    "language": "en",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 194] What is the primary rule for special conditions in chapter 10?",
-    "choices": [
-      "Always follow the special_conditions rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the special_conditions rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for special conditions.",
-    "source": "NY DMV Manual, Chapter 10"
-  },
-  {
-    "id": "en_ch4_195",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 195] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch4_196",
-    "language": "en",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 196] What is the primary rule for road signs in chapter 4?",
-    "choices": [
-      "Always follow the road_signs rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the road_signs rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for road signs.",
-    "source": "NY DMV Manual, Chapter 4"
-  },
-  {
-    "id": "en_ch11_197",
-    "language": "en",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 197] What is the primary rule for school buses in chapter 11?",
-    "choices": [
-      "Always follow the school_buses rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the school_buses rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for school buses.",
-    "source": "NY DMV Manual, Chapter 11"
-  },
-  {
-    "id": "en_ch7_198",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 198] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
-  },
-  {
-    "id": "en_ch7_199",
-    "language": "en",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Generated NY DMV Manual Question 199] What is the primary rule for parking in chapter 7?",
-    "choices": [
-      "Always follow the parking rule",
-      "Ignore it completely",
-      "Only applies on weekends",
-      "None of the above"
-    ],
-    "correctAnswer": "Always follow the parking rule",
-    "explanation": "According to the NY DMV Manual, this is the standard safety procedure for parking.",
-    "source": "NY DMV Manual, Chapter 7"
+    "correctAnswer": "Leave a note with your name and contact info, and notify the police",
+    "explanation": "If you strike an unattended vehicle, you must try to find the owner. If you can't, leave a note and report the crash to the police.",
+    "source": "Chapter 12"
   }
 ]

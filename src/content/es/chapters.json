@@ -1,5 +1,29 @@
 [
   {
+    "id": "es_ch1",
+    "language": "es",
+    "number": 1,
+    "title": "Licencias de Conducir",
+    "summary": "Tipos de licencias, conductores junior y restricciones.",
+    "topics": ["licenses", "restrictions"]
+  },
+  {
+    "id": "es_ch2",
+    "language": "es",
+    "number": 2,
+    "title": "Cómo Mantener su Licencia",
+    "summary": "Sistema de puntos, suspensiones y revocaciones.",
+    "topics": ["points", "suspensions"]
+  },
+  {
+    "id": "es_ch3",
+    "language": "es",
+    "number": 3,
+    "title": "Ser Propietario de un Vehículo",
+    "summary": "Registro, inspección y seguro.",
+    "topics": ["insurance", "registration"]
+  },
+  {
     "id": "es_ch4",
     "language": "es",
     "number": 4,
@@ -19,16 +43,16 @@
     "id": "es_ch6",
     "language": "es",
     "number": 6,
-    "title": "Rebasar",
-    "summary": "Reglas para rebasar otros vehículos de manera segura.",
+    "title": "Pasar",
+    "summary": "Reglas para pasar a otros vehículos de forma segura.",
     "topics": ["passing"]
   },
   {
     "id": "es_ch7",
     "language": "es",
     "number": 7,
-    "title": "Estacionamiento Paralelo",
-    "summary": "Reglas y técnicas para estacionarse.",
+    "title": "Estacionamiento en Paralelo",
+    "summary": "Reglas y técnicas para estacionar.",
     "topics": ["parking"]
   },
   {
@@ -52,7 +76,7 @@
     "language": "es",
     "number": 10,
     "title": "Condiciones Especiales de Manejo",
-    "summary": "Manejo nocturno, con mal clima y en autopistas.",
+    "summary": "Manejo nocturno, mal tiempo y autopistas.",
     "topics": ["special_conditions"]
   },
   {
@@ -62,5 +86,13 @@
     "title": "Compartiendo el Camino",
     "summary": "Peatones, bicicletas y vehículos de emergencia.",
     "topics": ["school_buses", "emergency_vehicles"]
+  },
+  {
+    "id": "es_ch12",
+    "language": "es",
+    "number": 12,
+    "title": "Si Está Involucrado en un Choque",
+    "summary": "Requisitos legales y pasos de emergencia después de un choque.",
+    "topics": ["crashes", "emergencies"]
   }
 ]

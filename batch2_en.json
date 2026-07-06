@@ -1,0 +1,268 @@
+[
+  {
+    "id": "en_ch7_001",
+    "language": "en",
+    "chapter": 7,
+    "topic": "parking",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "How close to a fire hydrant are you allowed to park?",
+    "choices": [
+      "10 feet",
+      "15 feet",
+      "20 feet",
+      "50 feet"
+    ],
+    "correctAnswer": "15 feet",
+    "explanation": "You may not park within 15 feet of a fire hydrant, unless a licensed driver remains in the vehicle to move it in an emergency.",
+    "source": "Chapter 7"
+  },
+  {
+    "id": "en_ch7_002",
+    "language": "en",
+    "chapter": 7,
+    "topic": "parking",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "When parking on a hill facing uphill with a curb, which way should you turn your wheels?",
+    "choices": [
+      "Away from the curb",
+      "Toward the curb",
+      "Straight ahead",
+      "It doesn't matter"
+    ],
+    "correctAnswer": "Away from the curb",
+    "explanation": "When parking facing uphill with a curb, turn your wheels away from the curb so if the vehicle rolls, the tires hit the curb and stop.",
+    "source": "Chapter 7"
+  },
+  {
+    "id": "en_ch8_001",
+    "language": "en",
+    "chapter": 8,
+    "topic": "defensive_driving",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What is the recommended following distance under ideal conditions?",
+    "choices": [
+      "1 second",
+      "2 seconds",
+      "3 seconds",
+      "5 seconds"
+    ],
+    "correctAnswer": "2 seconds",
+    "explanation": "The \"two-second rule\" is the minimum recommended following distance under ideal driving conditions.",
+    "source": "Chapter 8"
+  },
+  {
+    "id": "en_ch8_002",
+    "language": "en",
+    "chapter": 8,
+    "topic": "defensive_driving",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "If you have a tire blowout, what is the first thing you should do?",
+    "choices": [
+      "Slam on the brakes",
+      "Hold the steering wheel firmly and ease off the gas",
+      "Pull the parking brake",
+      "Turn off the engine"
+    ],
+    "correctAnswer": "Hold the steering wheel firmly and ease off the gas",
+    "explanation": "Do not panic or hit the brakes hard. Hold the steering wheel firmly, ease your foot off the gas, and brake gently once the vehicle is under control.",
+    "source": "Chapter 8"
+  },
+  {
+    "id": "en_ch9_001",
+    "language": "en",
+    "chapter": 9,
+    "topic": "alcohol_and_drugs",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What is the legal Blood Alcohol Content (BAC) limit for drivers age 21 or older in New York?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%",
+      "0.10%"
+    ],
+    "correctAnswer": "0.08%",
+    "explanation": "You are legally intoxicated if your BAC is 0.08% or higher if you are 21 or older.",
+    "source": "Chapter 9"
+  },
+  {
+    "id": "en_ch9_002",
+    "language": "en",
+    "chapter": 9,
+    "topic": "alcohol_and_drugs",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Under the \"Zero Tolerance Law\", what is the BAC limit for a driver under age 21?",
+    "choices": [
+      "0.00%",
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "correctAnswer": "0.02%",
+    "explanation": "The Zero Tolerance law applies to a person under age 21 who drives with a BAC of 0.02% to 0.07%.",
+    "source": "Chapter 9"
+  },
+  {
+    "id": "en_ch9_003",
+    "language": "en",
+    "chapter": 9,
+    "topic": "alcohol_and_drugs",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What is the only effective way to reduce your Blood Alcohol Content (BAC)?",
+    "choices": [
+      "Drinking coffee",
+      "Taking a cold shower",
+      "Eating a heavy meal",
+      "Time"
+    ],
+    "correctAnswer": "Time",
+    "explanation": "Only time can lower your BAC as your body processes the alcohol.",
+    "source": "Chapter 9"
+  },
+  {
+    "id": "en_ch10_001",
+    "language": "en",
+    "chapter": 10,
+    "topic": "special_conditions",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "When must you use your headlights in New York State?",
+    "choices": [
+      "From 1/2 hour after sunset to 1/2 hour before sunrise",
+      "Only when it is completely dark",
+      "From 8 PM to 6 AM",
+      "Only when driving outside city limits"
+    ],
+    "correctAnswer": "From 1/2 hour after sunset to 1/2 hour before sunrise",
+    "explanation": "Headlights must be used from a half hour after sunset to a half hour before sunrise, or when visibility is less than 1,000 feet.",
+    "source": "Chapter 10"
+  },
+  {
+    "id": "en_ch10_002",
+    "language": "en",
+    "chapter": 10,
+    "topic": "special_conditions",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "By law, when your windshield wipers are turned on for rain or snow, what else must be turned on?",
+    "choices": [
+      "Your hazard lights",
+      "Your headlights",
+      "Your defroster",
+      "Your interior lights"
+    ],
+    "correctAnswer": "Your headlights",
+    "explanation": "New York State law requires you to turn on your headlights when weather conditions require the use of windshield wipers.",
+    "source": "Chapter 10"
+  },
+  {
+    "id": "en_ch10_003",
+    "language": "en",
+    "chapter": 10,
+    "topic": "special_conditions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What is hydroplaning?",
+    "choices": [
+      "When a car's engine floods with water",
+      "When tires ride on a layer of water instead of the road surface",
+      "When your brakes freeze in winter",
+      "When a car sinks in a flood"
+    ],
+    "correctAnswer": "When tires ride on a layer of water instead of the road surface",
+    "explanation": "Hydroplaning occurs when a layer of water builds between the wheels and the road, leading to a loss of traction.",
+    "source": "Chapter 10"
+  },
+  {
+    "id": "en_ch11_001",
+    "language": "en",
+    "chapter": 11,
+    "topic": "school_buses",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "When a stopped school bus has its red lights flashing on a divided highway, you must:",
+    "choices": [
+      "Slow down and pass carefully",
+      "Stop only if you are on the same side as the bus",
+      "Stop, even if you are on the opposite side of a divided highway",
+      "Honk and proceed"
+    ],
+    "correctAnswer": "Stop, even if you are on the opposite side of a divided highway",
+    "explanation": "In NY, you must stop for a school bus with flashing red lights regardless of which side of a divided highway you are on.",
+    "source": "Chapter 11"
+  },
+  {
+    "id": "en_ch11_002",
+    "language": "en",
+    "chapter": 11,
+    "topic": "emergency_vehicles",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What must you do when an emergency vehicle approaches with sirens and flashing lights?",
+    "choices": [
+      "Speed up to get out of its way",
+      "Stop immediately in your lane",
+      "Pull over to the right edge of the road and stop",
+      "Move to the left lane"
+    ],
+    "correctAnswer": "Pull over to the right edge of the road and stop",
+    "explanation": "You must yield the right-of-way to fire, ambulance, police and other authorized emergency vehicles by pulling over to the right and stopping.",
+    "source": "Chapter 11"
+  },
+  {
+    "id": "en_ch12_001",
+    "language": "en",
+    "chapter": 12,
+    "topic": "crashes",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "If you are involved in a traffic crash resulting in injury, death, or more than $1,000 in property damage, how many days do you have to report it to the DMV?",
+    "choices": [
+      "3 days",
+      "5 days",
+      "10 days",
+      "30 days"
+    ],
+    "correctAnswer": "10 days",
+    "explanation": "You must file a Report of Motor Vehicle Accident (MV-104) with the DMV within 10 days of a crash meeting these criteria.",
+    "source": "Chapter 12"
+  },
+  {
+    "id": "en_ch12_002",
+    "language": "en",
+    "chapter": 12,
+    "topic": "emergencies",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "If you hit a parked vehicle and cannot find the owner, what are you legally required to do?",
+    "choices": [
+      "Leave immediately",
+      "Wait for 30 minutes, then leave",
+      "Leave a note with your name and contact info, and notify the police",
+      "Honk until someone comes out"
+    ],
+    "correctAnswer": "Leave a note with your name and contact info, and notify the police",
+    "explanation": "If you strike an unattended vehicle, you must try to find the owner. If you can't, leave a note and report the crash to the police.",
+    "source": "Chapter 12"
+  }
+]

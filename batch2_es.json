@@ -1,0 +1,268 @@
+[
+  {
+    "id": "es_ch7_001",
+    "language": "es",
+    "chapter": 7,
+    "topic": "parking",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿A qué distancia de un hidrante (boca de incendios) se le permite estacionarse?",
+    "choices": [
+      "10 pies",
+      "15 pies",
+      "20 pies",
+      "50 pies"
+    ],
+    "correctAnswer": "15 pies",
+    "explanation": "No puede estacionarse a menos de 15 pies de un hidrante, a menos que un conductor con licencia permanezca en el vehículo para moverlo en caso de emergencia.",
+    "source": "Capítulo 7"
+  },
+  {
+    "id": "es_ch7_002",
+    "language": "es",
+    "chapter": 7,
+    "topic": "parking",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Al estacionarse en una colina cuesta arriba con bordillo (acera), ¿hacia dónde debe girar las ruedas?",
+    "choices": [
+      "Lejos del bordillo",
+      "Hacia el bordillo",
+      "Derecho hacia adelante",
+      "No importa"
+    ],
+    "correctAnswer": "Lejos del bordillo",
+    "explanation": "Al estacionarse cuesta arriba con un bordillo, gire las ruedas lejos del bordillo para que si el vehículo rueda, las llantas golpeen el bordillo y se detenga.",
+    "source": "Capítulo 7"
+  },
+  {
+    "id": "es_ch8_001",
+    "language": "es",
+    "chapter": 8,
+    "topic": "defensive_driving",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuál es la distancia de seguimiento recomendada en condiciones ideales?",
+    "choices": [
+      "1 segundo",
+      "2 segundos",
+      "3 segundos",
+      "5 segundos"
+    ],
+    "correctAnswer": "2 segundos",
+    "explanation": "La \"regla de los dos segundos\" es la distancia de seguimiento mínima recomendada en condiciones ideales de manejo.",
+    "source": "Capítulo 8"
+  },
+  {
+    "id": "es_ch8_002",
+    "language": "es",
+    "chapter": 8,
+    "topic": "defensive_driving",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Si se le revienta una llanta (reventón), ¿qué es lo primero que debe hacer?",
+    "choices": [
+      "Frenar de golpe",
+      "Sostener el volante con firmeza y soltar el acelerador",
+      "Poner el freno de mano",
+      "Apagar el motor"
+    ],
+    "correctAnswer": "Sostener el volante con firmeza y soltar el acelerador",
+    "explanation": "No entre en pánico ni frene de golpe. Sostenga el volante con firmeza, suelte el acelerador y frene suavemente una vez que el vehículo esté bajo control.",
+    "source": "Capítulo 8"
+  },
+  {
+    "id": "es_ch9_001",
+    "language": "es",
+    "chapter": 9,
+    "topic": "alcohol_and_drugs",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuál es el límite legal de Contenido de Alcohol en la Sangre (BAC) para conductores de 21 años o más en Nueva York?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%",
+      "0.10%"
+    ],
+    "correctAnswer": "0.08%",
+    "explanation": "Está legalmente intoxicado si su BAC es de 0.08% o mayor si tiene 21 años o más.",
+    "source": "Capítulo 9"
+  },
+  {
+    "id": "es_ch9_002",
+    "language": "es",
+    "chapter": 9,
+    "topic": "alcohol_and_drugs",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Bajo la \"Ley de Tolerancia Cero\", ¿cuál es el límite de BAC para un conductor menor de 21 años?",
+    "choices": [
+      "0.00%",
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "correctAnswer": "0.02%",
+    "explanation": "La ley de Tolerancia Cero se aplica a una persona menor de 21 años que conduce con un BAC de 0.02% a 0.07%.",
+    "source": "Capítulo 9"
+  },
+  {
+    "id": "es_ch9_003",
+    "language": "es",
+    "chapter": 9,
+    "topic": "alcohol_and_drugs",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuál es la única manera efectiva de reducir su Contenido de Alcohol en la Sangre (BAC)?",
+    "choices": [
+      "Beber café",
+      "Tomar una ducha fría",
+      "Comer una comida pesada",
+      "El tiempo"
+    ],
+    "correctAnswer": "El tiempo",
+    "explanation": "Solo el tiempo puede disminuir su BAC a medida que su cuerpo procesa el alcohol.",
+    "source": "Capítulo 9"
+  },
+  {
+    "id": "es_ch10_001",
+    "language": "es",
+    "chapter": 10,
+    "topic": "special_conditions",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuándo debe usar sus faros delanteros en el estado de Nueva York?",
+    "choices": [
+      "Desde 1/2 hora después de la puesta del sol hasta 1/2 hora antes de la salida del sol",
+      "Solo cuando está completamente oscuro",
+      "De 8 PM a 6 AM",
+      "Solo cuando se conduce fuera de los límites de la ciudad"
+    ],
+    "correctAnswer": "Desde 1/2 hora después de la puesta del sol hasta 1/2 hora antes de la salida del sol",
+    "explanation": "Los faros deben usarse desde media hora después de la puesta del sol hasta media hora antes del amanecer, o cuando la visibilidad sea menor a 1,000 pies.",
+    "source": "Capítulo 10"
+  },
+  {
+    "id": "es_ch10_002",
+    "language": "es",
+    "chapter": 10,
+    "topic": "special_conditions",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Por ley, cuando enciende sus limpiaparabrisas por lluvia o nieve, ¿qué más debe encender?",
+    "choices": [
+      "Sus luces de emergencia (intermitentes)",
+      "Sus faros delanteros",
+      "Su desempañador",
+      "Sus luces interiores"
+    ],
+    "correctAnswer": "Sus faros delanteros",
+    "explanation": "La ley del estado de Nueva York requiere que encienda sus faros cuando las condiciones climáticas exijan el uso de limpiaparabrisas.",
+    "source": "Capítulo 10"
+  },
+  {
+    "id": "es_ch10_003",
+    "language": "es",
+    "chapter": 10,
+    "topic": "special_conditions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Qué es el hidroplaneo?",
+    "choices": [
+      "Cuando el motor de un auto se inunda de agua",
+      "Cuando las llantas se deslizan sobre una capa de agua en lugar de la superficie de la carretera",
+      "Cuando los frenos se congelan en invierno",
+      "Cuando un auto se hunde en una inundación"
+    ],
+    "correctAnswer": "Cuando las llantas se deslizan sobre una capa de agua en lugar de la superficie de la carretera",
+    "explanation": "El hidroplaneo ocurre cuando una capa de agua se acumula entre las ruedas y la carretera, causando una pérdida de tracción.",
+    "source": "Capítulo 10"
+  },
+  {
+    "id": "es_ch11_001",
+    "language": "es",
+    "chapter": 11,
+    "topic": "school_buses",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Cuando un autobús escolar detenido tiene sus luces rojas parpadeando en una carretera dividida, usted debe:",
+    "choices": [
+      "Disminuir la velocidad y pasar con cuidado",
+      "Detenerse solo si está del mismo lado que el autobús",
+      "Detenerse, incluso si está en el lado opuesto de una carretera dividida",
+      "Tocar la bocina y avanzar"
+    ],
+    "correctAnswer": "Detenerse, incluso si está en el lado opuesto de una carretera dividida",
+    "explanation": "En NY, debe detenerse por un autobús escolar con luces rojas parpadeando sin importar en qué lado de la carretera dividida se encuentre.",
+    "source": "Capítulo 11"
+  },
+  {
+    "id": "es_ch11_002",
+    "language": "es",
+    "chapter": 11,
+    "topic": "emergency_vehicles",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Qué debe hacer cuando se acerca un vehículo de emergencia con sirenas y luces parpadeantes?",
+    "choices": [
+      "Acelerar para quitarse de su camino",
+      "Detenerse inmediatamente en su carril",
+      "Orillarse al borde derecho de la calle y detenerse",
+      "Moverse al carril izquierdo"
+    ],
+    "correctAnswer": "Orillarse al borde derecho de la calle y detenerse",
+    "explanation": "Debe ceder el derecho de paso a vehículos de bomberos, ambulancias, policía y otros vehículos de emergencia acercándose al borde derecho y deteniéndose.",
+    "source": "Capítulo 11"
+  },
+  {
+    "id": "es_ch12_001",
+    "language": "es",
+    "chapter": 12,
+    "topic": "crashes",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Si está involucrado en un choque de tráfico que resulte en lesiones, muerte o más de $1,000 en daños a la propiedad, ¿cuántos días tiene para reportarlo al DMV?",
+    "choices": [
+      "3 días",
+      "5 días",
+      "10 días",
+      "30 días"
+    ],
+    "correctAnswer": "10 días",
+    "explanation": "Debe presentar un Informe de Accidente de Vehículo Motorizado (MV-104) al DMV dentro de los 10 días de un choque que cumpla con estos criterios.",
+    "source": "Capítulo 12"
+  },
+  {
+    "id": "es_ch12_002",
+    "language": "es",
+    "chapter": 12,
+    "topic": "emergencies",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Si golpea un vehículo estacionado y no puede encontrar al dueño, ¿qué está legalmente obligado a hacer?",
+    "choices": [
+      "Irse inmediatamente",
+      "Esperar 30 minutos, luego irse",
+      "Dejar una nota con su nombre e información de contacto, y notificar a la policía",
+      "Tocar la bocina hasta que alguien salga"
+    ],
+    "correctAnswer": "Dejar una nota con su nombre e información de contacto, y notificar a la policía",
+    "explanation": "Si golpea un vehículo desatendido, debe intentar encontrar al dueño. Si no puede, deje una nota y reporte el accidente a la policía.",
+    "source": "Capítulo 12"
+  }
+]

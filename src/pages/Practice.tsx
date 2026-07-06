@@ -12,6 +12,12 @@ export default function Practice() {
 
   // These keys correspond to the translation keys in en.json / es.json under practice.topics
   const topics = [
+    'licenses',
+    'restrictions',
+    'points',
+    'suspensions',
+    'insurance',
+    'registration',
     'road_signs',
     'traffic_lights',
     'pavement_markings',
@@ -23,7 +29,9 @@ export default function Practice() {
     'alcohol_and_drugs',
     'special_conditions',
     'school_buses',
-    'emergency_vehicles'
+    'emergency_vehicles',
+    'crashes',
+    'emergencies'
   ];
   
   return (

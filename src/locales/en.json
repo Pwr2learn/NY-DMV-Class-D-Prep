@@ -96,6 +96,12 @@
     "description": "This section will allow you to practice questions by specific topics like Road Signs, Right of Way, etc.",
     "selectTopic": "Select a Topic",
     "topics": {
+      "licenses": "Driver Licenses",
+      "restrictions": "License Restrictions",
+      "points": "Point System",
+      "suspensions": "Suspensions & Revocations",
+      "insurance": "Vehicle Insurance",
+      "registration": "Registration & Inspection",
       "road_signs": "Road Signs",
       "traffic_lights": "Traffic Lights",
       "pavement_markings": "Pavement Markings",
@@ -107,7 +113,9 @@
       "alcohol_and_drugs": "Alcohol and Drugs",
       "special_conditions": "Special Conditions",
       "school_buses": "School Buses",
-      "emergency_vehicles": "Emergency Vehicles"
+      "emergency_vehicles": "Emergency Vehicles",
+      "crashes": "Traffic Crashes",
+      "emergencies": "Emergencies"
     }
   },
   "progress": {

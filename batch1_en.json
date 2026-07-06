@@ -1,0 +1,287 @@
+[
+  {
+    "id": "en_ch1_001",
+    "language": "en",
+    "chapter": 1,
+    "topic": "licenses",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What is the minimum age to get a Class D driver license in New York without Driver Education?",
+    "choices": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "correctAnswer": "18",
+    "explanation": "You must be 18, or 17 with a driver education certificate, to get a senior driver license.",
+    "source": "Chapter 1"
+  },
+  {
+    "id": "en_ch1_002",
+    "language": "en",
+    "chapter": 1,
+    "topic": "restrictions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "If you have a Junior Learner Permit (Class DJ), between what hours are you completely forbidden from driving in Upstate NY?",
+    "choices": [
+      "9 PM and 5 AM",
+      "10 PM and 5 AM",
+      "Midnight and 5 AM",
+      "You can drive at any time with a parent"
+    ],
+    "correctAnswer": "9 PM and 5 AM",
+    "explanation": "In upstate NY, you cannot drive between 9 PM and 5 AM with a DJ permit unless going to work/school with documentation.",
+    "source": "Chapter 1"
+  },
+  {
+    "id": "en_ch2_001",
+    "language": "en",
+    "chapter": 2,
+    "topic": "points",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "How many points on your driving record within 18 months will result in a license suspension?",
+    "choices": [
+      "6",
+      "8",
+      "11",
+      "15"
+    ],
+    "correctAnswer": "11",
+    "explanation": "If you receive 11 points in 18 months, your license may be suspended.",
+    "source": "Chapter 2"
+  },
+  {
+    "id": "en_ch2_002",
+    "language": "en",
+    "chapter": 2,
+    "topic": "suspensions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What is the penalty for driving without insurance?",
+    "choices": [
+      "A $50 fine",
+      "Revocation of your driver license for at least one year",
+      "3 points on your license",
+      "A written warning"
+    ],
+    "correctAnswer": "Revocation of your driver license for at least one year",
+    "explanation": "Driving without insurance carries severe penalties, including revocation of your license for at least one year.",
+    "source": "Chapter 2"
+  },
+  {
+    "id": "en_ch2_003",
+    "language": "en",
+    "chapter": 2,
+    "topic": "points",
+    "difficulty": "expert",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "How many points is speeding 21 to 30 mph over the limit?",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Speeding 21 to 30 mph over the limit adds 6 points to your record.",
+    "source": "Chapter 2"
+  },
+  {
+    "id": "en_ch3_001",
+    "language": "en",
+    "chapter": 3,
+    "topic": "registration",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "How often must your vehicle be inspected in New York State?",
+    "choices": [
+      "Every 6 months",
+      "Once a year",
+      "Every 2 years",
+      "Only when buying a new car"
+    ],
+    "correctAnswer": "Once a year",
+    "explanation": "All vehicles registered in NY must get a safety inspection and an emissions inspection every 12 months.",
+    "source": "Chapter 3"
+  },
+  {
+    "id": "en_ch3_002",
+    "language": "en",
+    "chapter": 3,
+    "topic": "insurance",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What must you do with your license plates if you cancel your auto insurance?",
+    "choices": [
+      "Keep them in your garage",
+      "Throw them away",
+      "Surrender them to the DMV",
+      "Give them to the new owner"
+    ],
+    "correctAnswer": "Surrender them to the DMV",
+    "explanation": "You must surrender your plates to the DMV BEFORE your liability insurance coverage ends.",
+    "source": "Chapter 3"
+  },
+  {
+    "id": "en_ch4_006",
+    "language": "en",
+    "chapter": 4,
+    "topic": "road_signs",
+    "difficulty": "normal",
+    "isRoadSign": true,
+    "status": "approved",
+    "question": "What does a solid double yellow line down the center of the roadway mean?",
+    "choices": [
+      "Passing is permitted",
+      "Passing is prohibited for both directions",
+      "One-way traffic",
+      "Center turn lane"
+    ],
+    "correctAnswer": "Passing is prohibited for both directions",
+    "explanation": "Solid double yellow lines indicate that you cannot pass or cross them except to turn left into a driveway.",
+    "source": "Chapter 4"
+  },
+  {
+    "id": "en_ch4_007",
+    "language": "en",
+    "chapter": 4,
+    "topic": "traffic_lights",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "What must you do at a flashing red traffic light?",
+    "choices": [
+      "Slow down and yield",
+      "Stop, then proceed when safe",
+      "Speed up to clear the intersection",
+      "Wait for it to turn green"
+    ],
+    "correctAnswer": "Stop, then proceed when safe",
+    "explanation": "A flashing red light means the same thing as a stop sign.",
+    "source": "Chapter 4"
+  },
+  {
+    "id": "en_ch4_008",
+    "language": "en",
+    "chapter": 4,
+    "topic": "road_signs",
+    "difficulty": "hard",
+    "isRoadSign": true,
+    "status": "approved",
+    "question": "A diamond-shaped sign with a picture of a deer means:",
+    "choices": [
+      "Zoo ahead",
+      "Deer crossing area",
+      "Hunting permitted",
+      "No animals allowed"
+    ],
+    "correctAnswer": "Deer crossing area",
+    "explanation": "Diamond signs are warning signs. This warns that deer often cross the road in this area.",
+    "source": "Chapter 4"
+  },
+  {
+    "id": "en_ch5_001",
+    "language": "en",
+    "chapter": 5,
+    "topic": "right_of_way",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "If you arrive at a four-way stop at the same time as another driver, who has the right-of-way?",
+    "choices": [
+      "The driver going straight",
+      "The driver on the right",
+      "The driver on the left",
+      "The driver turning right"
+    ],
+    "correctAnswer": "The driver on the right",
+    "explanation": "If two drivers arrive at a four-way stop simultaneously, the driver on the left must yield to the driver on the right.",
+    "source": "Chapter 5"
+  },
+  {
+    "id": "en_ch5_002",
+    "language": "en",
+    "chapter": 5,
+    "topic": "right_of_way",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "When must you yield to a pedestrian using a white cane or guide dog?",
+    "choices": [
+      "Only at marked crosswalks",
+      "Only when the light is green",
+      "At all times",
+      "Only in school zones"
+    ],
+    "correctAnswer": "At all times",
+    "explanation": "You must always yield the right-of-way to a blind pedestrian, regardless of crosswalks or traffic signals.",
+    "source": "Chapter 5"
+  },
+  {
+    "id": "en_ch5_003",
+    "language": "en",
+    "chapter": 5,
+    "topic": "turning",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "How far in advance should you signal before making a turn?",
+    "choices": [
+      "50 feet",
+      "100 feet",
+      "200 feet",
+      "300 feet"
+    ],
+    "correctAnswer": "100 feet",
+    "explanation": "The law requires you to signal a turn or lane change at least 100 feet ahead.",
+    "source": "Chapter 5"
+  },
+  {
+    "id": "en_ch6_001",
+    "language": "en",
+    "chapter": 6,
+    "topic": "passing",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "When is it legally permitted to pass a vehicle on the right?",
+    "choices": [
+      "When they are going too slow",
+      "When the vehicle ahead is making a left turn and there is room on the pavement",
+      "Any time on a two-lane road",
+      "Never"
+    ],
+    "correctAnswer": "When the vehicle ahead is making a left turn and there is room on the pavement",
+    "explanation": "You may pass on the right if a vehicle is making a left turn and you do not leave the paved road.",
+    "source": "Chapter 6"
+  },
+  {
+    "id": "en_ch6_002",
+    "language": "en",
+    "chapter": 6,
+    "topic": "passing",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "After passing a vehicle, when is it safe to return to the right lane?",
+    "choices": [
+      "Immediately",
+      "When you can see the passed vehicle's headlights in your rearview mirror",
+      "After 5 seconds",
+      "When the driver honks"
+    ],
+    "correctAnswer": "When you can see the passed vehicle's headlights in your rearview mirror",
+    "explanation": "Checking your rearview mirror ensures you have enough space before moving back into the lane.",
+    "source": "Chapter 6"
+  }
+]

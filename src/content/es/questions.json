@@ -102,16 +102,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Si dos conductores llegan a una intersección sin señales de tránsito ni semáforos al mismo tiempo, ¿quién tiene el derecho de paso?",
+    "question": "Si llega a una intersección de cuatro paradas al mismo tiempo que otro conductor, ¿quién tiene el derecho de paso?",
     "choices": [
-      "El conductor de la izquierda",
+      "El conductor que va recto",
       "El conductor de la derecha",
-      "El conductor que vaya primero",
-      "El conductor que viaja más rápido"
+      "El conductor de la izquierda",
+      "El conductor que gira a la derecha"
     ],
     "correctAnswer": "El conductor de la derecha",
-    "explanation": "Si dos conductores llegan a una intersección desde diferentes carreteras al mismo tiempo, el conductor de la izquierda debe ceder el paso al conductor de la derecha.",
-    "source": "Manual del DMV de NY, Capítulo 5"
+    "explanation": "Si dos conductores llegan simultáneamente, el de la izquierda debe ceder el paso al de la derecha.",
+    "source": "Capítulo 5"
   },
   {
     "id": "es_ch9_001",
@@ -121,16 +121,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "En el estado de Nueva York, se considera legalmente que estás conduciendo en estado de ebriedad (DWI) si tu contenido de alcohol en sangre (BAC) es:",
+    "question": "¿Cuál es el límite legal de Contenido de Alcohol en la Sangre (BAC) para conductores de 21 años o más en Nueva York?",
     "choices": [
-      "0.05% o más",
-      "0.08% o más",
-      "0.10% o más",
-      "0.15% o más"
+      "0.02%",
+      "0.05%",
+      "0.08%",
+      "0.10%"
     ],
-    "correctAnswer": "0.08% o más",
-    "explanation": "Un BAC de 0.08% o más es evidencia legal de intoxicación.",
-    "source": "Manual del DMV de NY, Capítulo 9"
+    "correctAnswer": "0.08%",
+    "explanation": "Está legalmente intoxicado si su BAC es de 0.08% o mayor si tiene 21 años o más.",
+    "source": "Capítulo 9"
   },
   {
     "id": "es_ch8_001",
@@ -140,35 +140,35 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Para mantener un buen espacio de seguridad entre tu vehículo y el que está adelante, debes usar la:",
+    "question": "¿Cuál es la distancia de seguimiento recomendada en condiciones ideales?",
     "choices": [
-      "Regla de los dos segundos",
-      "Regla de los tres segundos",
-      "Regla de los cuatro segundos",
-      "Regla de los diez segundos"
+      "1 segundo",
+      "2 segundos",
+      "3 segundos",
+      "5 segundos"
     ],
-    "correctAnswer": "Regla de los dos segundos",
-    "explanation": "El manual del DMV de NY recomienda usar la 'regla de los dos segundos' en condiciones normales de conducción.",
-    "source": "Manual del DMV de NY, Capítulo 8"
+    "correctAnswer": "2 segundos",
+    "explanation": "La \"regla de los dos segundos\" es la distancia de seguimiento mínima recomendada en condiciones ideales de manejo.",
+    "source": "Capítulo 8"
   },
   {
     "id": "es_ch8_002",
     "language": "es",
     "chapter": 8,
     "topic": "defensive_driving",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Si alguien conduce demasiado cerca detrás de ti, debes:",
+    "question": "Si se le revienta una llanta (reventón), ¿qué es lo primero que debe hacer?",
     "choices": [
       "Frenar de golpe",
-      "Acelerar",
-      "Moverte a otro carril o disminuir la velocidad",
-      "Hacer parpadear las luces de freno repetidamente"
+      "Sostener el volante con firmeza y soltar el acelerador",
+      "Poner el freno de mano",
+      "Apagar el motor"
     ],
-    "correctAnswer": "Moverte a otro carril o disminuir la velocidad",
-    "explanation": "Si un conductor te sigue demasiado de cerca, muévete a otro carril si es posible, o reduce la velocidad y hazte a la derecha para animarlo a pasar.",
-    "source": "Manual del DMV de NY, Capítulo 8"
+    "correctAnswer": "Sostener el volante con firmeza y soltar el acelerador",
+    "explanation": "No entre en pánico ni frene de golpe. Sostenga el volante con firmeza, suelte el acelerador y frene suavemente una vez que el vehículo esté bajo control.",
+    "source": "Capítulo 8"
   },
   {
     "id": "es_ch11_001",
@@ -178,16 +178,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Cuando un autobús escolar se detiene y parpadea con luces rojas, debes:",
+    "question": "Cuando un autobús escolar detenido tiene sus luces rojas parpadeando en una carretera dividida, usted debe:",
     "choices": [
       "Disminuir la velocidad y pasar con cuidado",
-      "Detenerte, pero solo si estás detrás del autobús",
-      "Detenerte al menos a 20 pies de distancia del autobús en cualquier dirección",
-      "Detenerte y tocar la bocina"
+      "Detenerse solo si está del mismo lado que el autobús",
+      "Detenerse, incluso si está en el lado opuesto de una carretera dividida",
+      "Tocar la bocina y avanzar"
     ],
-    "correctAnswer": "Detenerte al menos a 20 pies de distancia del autobús en cualquier dirección",
-    "explanation": "Debes detenerte al menos a 20 pies de distancia de un autobús escolar con luces rojas intermitentes, independientemente del lado de la carretera en el que te encuentres.",
-    "source": "Manual del DMV de NY, Capítulo 11"
+    "correctAnswer": "Detenerse, incluso si está en el lado opuesto de una carretera dividida",
+    "explanation": "En NY, debe detenerse por un autobús escolar con luces rojas parpadeando sin importar en qué lado de la carretera dividida se encuentre.",
+    "source": "Capítulo 11"
   },
   {
     "id": "es_ch6_001",
@@ -197,16 +197,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "¿Cuándo es legal pasar a otro vehículo por la derecha?",
+    "question": "¿Cuándo está legalmente permitido pasar a un vehículo por la derecha?",
     "choices": [
-      "Cuando el vehículo de adelante está girando a la izquierda",
-      "En una calle de un solo sentido",
-      "En una autopista de varios carriles",
-      "Todas las anteriores"
+      "Cuando va demasiado lento",
+      "Cuando el vehículo de adelante está girando a la izquierda y hay espacio en el pavimento",
+      "Cualquier momento en una carretera de dos carriles",
+      "Nunca"
     ],
-    "correctAnswer": "Todas las anteriores",
-    "explanation": "Normalmente puedes pasar por la derecha solo cuando el vehículo de adelante está girando a la izquierda, estás en una calle de doble sentido con carriles marcados o en una calle de un solo sentido.",
-    "source": "Manual del DMV de NY, Capítulo 6"
+    "correctAnswer": "Cuando el vehículo de adelante está girando a la izquierda y hay espacio en el pavimento",
+    "explanation": "Puede pasar por la derecha si un vehículo gira a la izquierda y usted no sale del camino pavimentado.",
+    "source": "Capítulo 6"
   },
   {
     "id": "es_ch10_001",
@@ -216,16 +216,16 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Al conducir en niebla, debes usar:",
+    "question": "¿Cuándo debe usar sus faros delanteros en el estado de Nueva York?",
     "choices": [
-      "Faros de luces altas",
-      "Faros de luces bajas",
-      "Solo luces de estacionamiento",
-      "Luces de emergencia"
+      "Desde 1/2 hora después de la puesta del sol hasta 1/2 hora antes de la salida del sol",
+      "Solo cuando está completamente oscuro",
+      "De 8 PM a 6 AM",
+      "Solo cuando se conduce fuera de los límites de la ciudad"
     ],
-    "correctAnswer": "Faros de luces bajas",
-    "explanation": "Las luces altas se reflejan en la niebla y disminuyen la visibilidad. Usa luces bajas para una mejor visibilidad en niebla, lluvia o nieve.",
-    "source": "Manual del DMV de NY, Capítulo 10"
+    "correctAnswer": "Desde 1/2 hora después de la puesta del sol hasta 1/2 hora antes de la salida del sol",
+    "explanation": "Los faros deben usarse desde media hora después de la puesta del sol hasta media hora antes del amanecer, o cuando la visibilidad sea menor a 1,000 pies.",
+    "source": "Capítulo 10"
   },
   {
     "id": "es_ch7_001",
@@ -235,35 +235,35 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "¿A cuántos pies de un hidrante (boca de incendios) no se puede estacionar?",
+    "question": "¿A qué distancia de un hidrante (boca de incendios) se le permite estacionarse?",
     "choices": [
       "10 pies",
       "15 pies",
       "20 pies",
-      "25 pies"
+      "50 pies"
     ],
     "correctAnswer": "15 pies",
-    "explanation": "No puedes estacionar, detenerte o pararte a menos de 15 pies de un hidrante, a menos que un conductor con licencia permanezca en el vehículo para moverlo en caso de emergencia.",
-    "source": "Manual del DMV de NY, Capítulo 7"
+    "explanation": "No puede estacionarse a menos de 15 pies de un hidrante, a menos que un conductor con licencia permanezca en el vehículo para moverlo en caso de emergencia.",
+    "source": "Capítulo 7"
   },
   {
     "id": "es_ch7_002",
     "language": "es",
     "chapter": 7,
     "topic": "parking",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Al estacionar cuesta abajo en una calle con acera (bordillo), debes girar las ruedas:",
+    "question": "Al estacionarse en una colina cuesta arriba con bordillo (acera), ¿hacia dónde debe girar las ruedas?",
     "choices": [
-      "Hacia la acera",
-      "Lejos de la acera",
-      "Hacia adelante",
+      "Lejos del bordillo",
+      "Hacia el bordillo",
+      "Derecho hacia adelante",
       "No importa"
     ],
-    "correctAnswer": "Hacia la acera",
-    "explanation": "Al estacionar cuesta abajo con acera, gira las ruedas hacia la derecha (hacia la acera) para que el vehículo ruede hacia la acera si fallan los frenos.",
-    "source": "Manual del DMV de NY, Capítulo 7"
+    "correctAnswer": "Lejos del bordillo",
+    "explanation": "Al estacionarse cuesta arriba con un bordillo, gire las ruedas lejos del bordillo para que si el vehículo rueda, las llantas golpeen el bordillo y se detenga.",
+    "source": "Capítulo 7"
   },
   {
     "id": "es_ch7_003",
@@ -288,20 +288,20 @@
     "id": "es_ch4_006",
     "language": "es",
     "chapter": 4,
-    "topic": "traffic_lights",
+    "topic": "road_signs",
     "difficulty": "normal",
-    "isRoadSign": false,
+    "isRoadSign": true,
     "status": "approved",
-    "question": "¿Qué significa una luz roja intermitente?",
+    "question": "¿Qué significa una doble línea amarilla sólida en el centro de la carretera?",
     "choices": [
-      "Disminuye la velocidad y procede con precaución",
-      "Detente, cede el paso y avanza cuando sea seguro",
-      "El semáforo está roto",
-      "Desvío más adelante"
+      "Se permite pasar",
+      "Está prohibido pasar para ambas direcciones",
+      "Tráfico en un solo sentido",
+      "Carril central de giro"
     ],
-    "correctAnswer": "Detente, cede el paso y avanza cuando sea seguro",
-    "explanation": "Una luz roja intermitente significa lo mismo que una señal de pare: detente, cede el paso y avanza cuando sea seguro.",
-    "source": "Manual del DMV de NY, Capítulo 4"
+    "correctAnswer": "Está prohibido pasar para ambas direcciones",
+    "explanation": "Las líneas amarillas dobles sólidas indican que no puede pasar ni cruzarlas excepto para girar a la izquierda en una entrada.",
+    "source": "Capítulo 4"
   },
   {
     "id": "es_ch4_007",
@@ -311,35 +311,35 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "¿Qué significa una luz amarilla constante?",
+    "question": "¿Qué debe hacer ante un semáforo rojo intermitente?",
     "choices": [
-      "La luz está a punto de cambiar a rojo, prepárate para detenerte",
-      "Acelera para cruzar la intersección",
-      "Detente inmediatamente",
-      "Procede con precaución"
+      "Disminuir la velocidad y ceder el paso",
+      "Detenerse, luego avanzar cuando sea seguro",
+      "Acelerar para despejar la intersección",
+      "Esperar a que se ponga verde"
     ],
-    "correctAnswer": "La luz está a punto de cambiar a rojo, prepárate para detenerte",
-    "explanation": "Una luz amarilla constante significa que la luz cambiará de verde a rojo. Prepárate para detenerte ante la luz roja.",
-    "source": "Manual del DMV de NY, Capítulo 4"
+    "correctAnswer": "Detenerse, luego avanzar cuando sea seguro",
+    "explanation": "Una luz roja intermitente significa lo mismo que una señal de alto.",
+    "source": "Capítulo 4"
   },
   {
     "id": "es_ch5_002",
     "language": "es",
     "chapter": 5,
     "topic": "right_of_way",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Deseas girar a la izquierda en una intersección. La luz es verde pero hay mucho tráfico en sentido contrario. Debes:",
+    "question": "¿Cuándo debe ceder el paso a un peatón con un bastón blanco o perro guía?",
     "choices": [
-      "Esperar en el centro de la intersección a que el tráfico se despeje",
-      "Esperar en el paso de peatones a que el tráfico se despeje",
-      "Abrirte paso a la fuerza",
-      "Encender las luces de emergencia"
+      "Solo en cruces peatonales marcados",
+      "Solo cuando la luz es verde",
+      "En todo momento",
+      "Solo en zonas escolares"
     ],
-    "correctAnswer": "Esperar en el centro de la intersección a que el tráfico se despeje",
-    "explanation": "Al girar a la izquierda, puedes entrar a la intersección para prepararte para el giro si la luz es verde y no hay ningún otro vehículo delante de ti girando a la izquierda. Espera a que el tráfico en sentido contrario se despeje antes de completar el giro.",
-    "source": "Manual del DMV de NY, Capítulo 5"
+    "correctAnswer": "En todo momento",
+    "explanation": "Siempre debe ceder el derecho de paso a un peatón ciego, sin importar cruces o semáforos.",
+    "source": "Capítulo 5"
   },
   {
     "id": "es_ch11_002",
@@ -349,35 +349,35 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Escuchas una sirena o ves luces rojas o azules intermitentes de un vehículo de emergencia que se acerca por detrás. Debes:",
+    "question": "¿Qué debe hacer cuando se acerca un vehículo de emergencia con sirenas y luces parpadeantes?",
     "choices": [
-      "Acelerar y quitarte del camino",
-      "Detenerte inmediatamente donde estás",
-      "Hacerte a la orilla derecha de la carretera y detenerte",
-      "Continuar conduciendo a la misma velocidad"
+      "Acelerar para quitarse de su camino",
+      "Detenerse inmediatamente en su carril",
+      "Orillarse al borde derecho de la calle y detenerse",
+      "Moverse al carril izquierdo"
     ],
-    "correctAnswer": "Hacerte a la orilla derecha de la carretera y detenerte",
-    "explanation": "Debes ceder el paso a los bomberos, ambulancias, policías y otros vehículos de emergencia autorizados. Hazte a la orilla derecha de la carretera y detente.",
-    "source": "Manual del DMV de NY, Capítulo 11"
+    "correctAnswer": "Orillarse al borde derecho de la calle y detenerse",
+    "explanation": "Debe ceder el derecho de paso a vehículos de bomberos, ambulancias, policía y otros vehículos de emergencia acercándose al borde derecho y deteniéndose.",
+    "source": "Capítulo 11"
   },
   {
     "id": "es_ch9_002",
     "language": "es",
     "chapter": 9,
     "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
+    "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "Según la 'Ley de Tolerancia Cero', ¿cuál es el límite legal de BAC para conductores menores de 21 años?",
+    "question": "Bajo la \"Ley de Tolerancia Cero\", ¿cuál es el límite de BAC para un conductor menor de 21 años?",
     "choices": [
-      "0.08%",
-      "0.05%",
+      "0.00%",
       "0.02%",
-      "0.00%"
+      "0.05%",
+      "0.08%"
     ],
     "correctAnswer": "0.02%",
-    "explanation": "Para los conductores menores de 21 años, el límite legal es 0.02%. Esta ley se aplica a los menores que conducen después de consumir cualquier cantidad de alcohol.",
-    "source": "Manual del DMV de NY, Capítulo 9"
+    "explanation": "La ley de Tolerancia Cero se aplica a una persona menor de 21 años que conduce con un BAC de 0.02% a 0.07%.",
+    "source": "Capítulo 9"
   },
   {
     "id": "es_ch9_003",
@@ -387,1915 +387,281 @@
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "¿Cuál es la única manera efectiva de reducir el contenido de alcohol en sangre (BAC)?",
+    "question": "¿Cuál es la única manera efectiva de reducir su Contenido de Alcohol en la Sangre (BAC)?",
     "choices": [
       "Beber café",
-      "Darse una ducha fría",
-      "El tiempo",
-      "Comer comida"
+      "Tomar una ducha fría",
+      "Comer una comida pesada",
+      "El tiempo"
     ],
     "correctAnswer": "El tiempo",
-    "explanation": "El único método que reduce de manera efectiva el BAC es el tiempo. Tu cuerpo necesita tiempo para metabolizar el alcohol.",
-    "source": "Manual del DMV de NY, Capítulo 9"
+    "explanation": "Solo el tiempo puede disminuir su BAC a medida que su cuerpo procesa el alcohol.",
+    "source": "Capítulo 9"
   },
   {
-    "id": "es_ch4_100",
+    "id": "es_ch1_001",
+    "language": "es",
+    "chapter": 1,
+    "topic": "licenses",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuál es la edad mínima para obtener una licencia de conducir Clase D en Nueva York sin Educación Vial?",
+    "choices": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "correctAnswer": "18",
+    "explanation": "Debe tener 18 años, o 17 con un certificado de educación vial, para obtener una licencia de conducir senior.",
+    "source": "Capítulo 1"
+  },
+  {
+    "id": "es_ch1_002",
+    "language": "es",
+    "chapter": 1,
+    "topic": "restrictions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Si tiene un Permiso de Aprendizaje Junior (Clase DJ), ¿entre qué horas tiene totalmente prohibido conducir en el norte del estado de NY?",
+    "choices": [
+      "9 PM y 5 AM",
+      "10 PM y 5 AM",
+      "Medianoche y 5 AM",
+      "Puede conducir en cualquier momento con un padre"
+    ],
+    "correctAnswer": "9 PM y 5 AM",
+    "explanation": "En el norte de NY, no puede conducir entre las 9 PM y las 5 AM con un permiso DJ a menos que vaya al trabajo/escuela con documentación.",
+    "source": "Capítulo 1"
+  },
+  {
+    "id": "es_ch2_001",
+    "language": "es",
+    "chapter": 2,
+    "topic": "points",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuántos puntos en su historial de manejo dentro de 18 meses resultarán en la suspensión de la licencia?",
+    "choices": [
+      "6",
+      "8",
+      "11",
+      "15"
+    ],
+    "correctAnswer": "11",
+    "explanation": "Si recibe 11 puntos en 18 meses, su licencia puede ser suspendida.",
+    "source": "Capítulo 2"
+  },
+  {
+    "id": "es_ch2_002",
+    "language": "es",
+    "chapter": 2,
+    "topic": "suspensions",
+    "difficulty": "hard",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuál es la sanción por conducir sin seguro?",
+    "choices": [
+      "Una multa de $50",
+      "Revocación de su licencia de conducir por al menos un año",
+      "3 puntos en su licencia",
+      "Una advertencia por escrito"
+    ],
+    "correctAnswer": "Revocación de su licencia de conducir por al menos un año",
+    "explanation": "Conducir sin seguro conlleva sanciones severas, incluyendo la revocación de la licencia por al menos un año.",
+    "source": "Capítulo 2"
+  },
+  {
+    "id": "es_ch2_003",
+    "language": "es",
+    "chapter": 2,
+    "topic": "points",
+    "difficulty": "expert",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Cuántos puntos es ir a exceso de velocidad 21 a 30 mph por encima del límite?",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Ir a exceso de velocidad 21 a 30 mph sobre el límite suma 6 puntos a su récord.",
+    "source": "Capítulo 2"
+  },
+  {
+    "id": "es_ch3_001",
+    "language": "es",
+    "chapter": 3,
+    "topic": "registration",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Con qué frecuencia debe inspeccionarse su vehículo en el estado de Nueva York?",
+    "choices": [
+      "Cada 6 meses",
+      "Una vez al año",
+      "Cada 2 años",
+      "Solo al comprar un auto nuevo"
+    ],
+    "correctAnswer": "Una vez al año",
+    "explanation": "Todos los vehículos registrados en NY deben obtener una inspección de seguridad y emisiones cada 12 meses.",
+    "source": "Capítulo 3"
+  },
+  {
+    "id": "es_ch3_002",
+    "language": "es",
+    "chapter": 3,
+    "topic": "insurance",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "¿Qué debe hacer con las placas de su auto si cancela su seguro?",
+    "choices": [
+      "Guardarlas en su garaje",
+      "Tirarlas",
+      "Entregarlas al DMV",
+      "Dárselas al nuevo propietario"
+    ],
+    "correctAnswer": "Entregarlas al DMV",
+    "explanation": "Debe entregar sus placas al DMV ANTES de que termine su cobertura de seguro de responsabilidad.",
+    "source": "Capítulo 3"
+  },
+  {
+    "id": "es_ch4_008",
     "language": "es",
     "chapter": 4,
     "topic": "road_signs",
     "difficulty": "hard",
     "isRoadSign": true,
     "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 100] ¿Cuál es la regla principal para road signs en el capítulo 4?",
+    "question": "Una señal en forma de diamante con un dibujo de un ciervo significa:",
     "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
+      "Zoológico más adelante",
+      "Área de cruce de ciervos",
+      "Se permite cazar",
+      "No se permiten animales"
     ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
+    "correctAnswer": "Área de cruce de ciervos",
+    "explanation": "Las señales de diamante son de advertencia. Esta advierte que los ciervos a menudo cruzan la carretera.",
+    "source": "Capítulo 4"
   },
   {
-    "id": "es_ch7_101",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 101] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch6_102",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 102] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch4_103",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 103] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch10_104",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 104] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch6_105",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 105] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch6_106",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 106] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch6_107",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 107] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch9_108",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 108] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch10_109",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 109] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch9_110",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 110] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch7_111",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 111] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch6_112",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 112] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch4_113",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 113] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch10_114",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 114] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch4_115",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 115] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch5_116",
+    "id": "es_ch5_003",
     "language": "es",
     "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 116] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch4_117",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 117] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch10_118",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
+    "topic": "turning",
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 118] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
+    "question": "¿Con cuánta anticipación debe poner la señal antes de hacer un giro?",
     "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
+      "50 pies",
+      "100 pies",
+      "200 pies",
+      "300 pies"
     ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
+    "correctAnswer": "100 pies",
+    "explanation": "La ley exige que señale un giro o cambio de carril al menos 100 pies antes.",
+    "source": "Capítulo 5"
   },
   {
-    "id": "es_ch5_119",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 119] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch9_120",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 120] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch8_121",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 121] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch6_122",
+    "id": "es_ch6_002",
     "language": "es",
     "chapter": 6,
     "topic": "passing",
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 122] ¿Cuál es la regla principal para passing en el capítulo 6?",
+    "question": "Después de rebasar a un vehículo, ¿cuándo es seguro volver al carril derecho?",
     "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
+      "Inmediatamente",
+      "Cuando puede ver las luces del vehículo rebasado en su espejo retrovisor",
+      "Después de 5 segundos",
+      "Cuando el conductor toca la bocina"
     ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
+    "correctAnswer": "Cuando puede ver las luces del vehículo rebasado en su espejo retrovisor",
+    "explanation": "Revisar su retrovisor asegura tener suficiente espacio antes de volver al carril.",
+    "source": "Capítulo 6"
   },
   {
-    "id": "es_ch7_123",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 123] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch8_124",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 124] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch7_125",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 125] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch10_126",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 126] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch4_127",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 127] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch8_128",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 128] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch10_129",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 129] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch8_130",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 130] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch8_131",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 131] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch9_132",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 132] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch7_133",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 133] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch9_134",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 134] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch4_135",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 135] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch5_136",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 136] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch7_137",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 137] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch6_138",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 138] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch8_139",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 139] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch11_140",
-    "language": "es",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 140] ¿Cuál es la regla principal para school buses en el capítulo 11?",
-    "choices": [
-      "Siempre sigue la regla de school_buses",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de school_buses",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para school buses.",
-    "source": "Manual del DMV de NY, Capítulo 11"
-  },
-  {
-    "id": "es_ch10_141",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 141] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch4_142",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 142] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch6_143",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 143] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch8_144",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 144] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch8_145",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 145] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch6_146",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 146] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch8_147",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 147] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch5_148",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 148] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch9_149",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 149] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch5_150",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 150] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch10_151",
+    "id": "es_ch10_002",
     "language": "es",
     "chapter": 10,
     "topic": "special_conditions",
     "difficulty": "normal",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 151] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
+    "question": "Por ley, cuando enciende sus limpiaparabrisas por lluvia o nieve, ¿qué más debe encender?",
     "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
+      "Sus luces de emergencia (intermitentes)",
+      "Sus faros delanteros",
+      "Su desempañador",
+      "Sus luces interiores"
     ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
+    "correctAnswer": "Sus faros delanteros",
+    "explanation": "La ley del estado de Nueva York requiere que encienda sus faros cuando las condiciones climáticas exijan el uso de limpiaparabrisas.",
+    "source": "Capítulo 10"
   },
   {
-    "id": "es_ch4_152",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 152] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch5_153",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 153] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch10_154",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 154] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch6_155",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 155] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch4_156",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 156] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch4_157",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 157] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch11_158",
-    "language": "es",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 158] ¿Cuál es la regla principal para school buses en el capítulo 11?",
-    "choices": [
-      "Siempre sigue la regla de school_buses",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de school_buses",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para school buses.",
-    "source": "Manual del DMV de NY, Capítulo 11"
-  },
-  {
-    "id": "es_ch10_159",
+    "id": "es_ch10_003",
     "language": "es",
     "chapter": 10,
     "topic": "special_conditions",
     "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 159] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
+    "question": "¿Qué es el hidroplaneo?",
     "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
+      "Cuando el motor de un auto se inunda de agua",
+      "Cuando las llantas se deslizan sobre una capa de agua en lugar de la superficie de la carretera",
+      "Cuando los frenos se congelan en invierno",
+      "Cuando un auto se hunde en una inundación"
     ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
+    "correctAnswer": "Cuando las llantas se deslizan sobre una capa de agua en lugar de la superficie de la carretera",
+    "explanation": "El hidroplaneo ocurre cuando una capa de agua se acumula entre las ruedas y la carretera, causando una pérdida de tracción.",
+    "source": "Capítulo 10"
   },
   {
-    "id": "es_ch9_160",
+    "id": "es_ch12_001",
     "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
+    "chapter": 12,
+    "topic": "crashes",
+    "difficulty": "normal",
+    "isRoadSign": false,
+    "status": "approved",
+    "question": "Si está involucrado en un choque de tráfico que resulte en lesiones, muerte o más de $1,000 en daños a la propiedad, ¿cuántos días tiene para reportarlo al DMV?",
+    "choices": [
+      "3 días",
+      "5 días",
+      "10 días",
+      "30 días"
+    ],
+    "correctAnswer": "10 días",
+    "explanation": "Debe presentar un Informe de Accidente de Vehículo Motorizado (MV-104) al DMV dentro de los 10 días de un choque que cumpla con estos criterios.",
+    "source": "Capítulo 12"
+  },
+  {
+    "id": "es_ch12_002",
+    "language": "es",
+    "chapter": 12,
+    "topic": "emergencies",
     "difficulty": "hard",
     "isRoadSign": false,
     "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 160] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
+    "question": "Si golpea un vehículo estacionado y no puede encontrar al dueño, ¿qué está legalmente obligado a hacer?",
     "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
+      "Irse inmediatamente",
+      "Esperar 30 minutos, luego irse",
+      "Dejar una nota con su nombre e información de contacto, y notificar a la policía",
+      "Tocar la bocina hasta que alguien salga"
     ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch9_161",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 161] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch9_162",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 162] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch9_163",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 163] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch8_164",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 164] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch5_165",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 165] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch6_166",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 166] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch6_167",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 167] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch9_168",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 168] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch11_169",
-    "language": "es",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 169] ¿Cuál es la regla principal para school buses en el capítulo 11?",
-    "choices": [
-      "Siempre sigue la regla de school_buses",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de school_buses",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para school buses.",
-    "source": "Manual del DMV de NY, Capítulo 11"
-  },
-  {
-    "id": "es_ch5_170",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 170] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch8_171",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 171] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch6_172",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 172] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch9_173",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 173] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch11_174",
-    "language": "es",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 174] ¿Cuál es la regla principal para school buses en el capítulo 11?",
-    "choices": [
-      "Siempre sigue la regla de school_buses",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de school_buses",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para school buses.",
-    "source": "Manual del DMV de NY, Capítulo 11"
-  },
-  {
-    "id": "es_ch5_175",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 175] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch8_176",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 176] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch9_177",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 177] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch5_178",
-    "language": "es",
-    "chapter": 5,
-    "topic": "right_of_way",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 178] ¿Cuál es la regla principal para right of_way en el capítulo 5?",
-    "choices": [
-      "Siempre sigue la regla de right_of_way",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de right_of_way",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para right of_way.",
-    "source": "Manual del DMV de NY, Capítulo 5"
-  },
-  {
-    "id": "es_ch10_179",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 179] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch9_180",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 180] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch8_181",
-    "language": "es",
-    "chapter": 8,
-    "topic": "defensive_driving",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 181] ¿Cuál es la regla principal para defensive driving en el capítulo 8?",
-    "choices": [
-      "Siempre sigue la regla de defensive_driving",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de defensive_driving",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para defensive driving.",
-    "source": "Manual del DMV de NY, Capítulo 8"
-  },
-  {
-    "id": "es_ch9_182",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 182] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch7_183",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 183] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch7_184",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 184] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch4_185",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "hard",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 185] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch9_186",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 186] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch11_187",
-    "language": "es",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 187] ¿Cuál es la regla principal para school buses en el capítulo 11?",
-    "choices": [
-      "Siempre sigue la regla de school_buses",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de school_buses",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para school buses.",
-    "source": "Manual del DMV de NY, Capítulo 11"
-  },
-  {
-    "id": "es_ch9_188",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 188] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch4_189",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 189] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch11_190",
-    "language": "es",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 190] ¿Cuál es la regla principal para school buses en el capítulo 11?",
-    "choices": [
-      "Siempre sigue la regla de school_buses",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de school_buses",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para school buses.",
-    "source": "Manual del DMV de NY, Capítulo 11"
-  },
-  {
-    "id": "es_ch9_191",
-    "language": "es",
-    "chapter": 9,
-    "topic": "alcohol_and_drugs",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 191] ¿Cuál es la regla principal para alcohol and_drugs en el capítulo 9?",
-    "choices": [
-      "Siempre sigue la regla de alcohol_and_drugs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de alcohol_and_drugs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para alcohol and_drugs.",
-    "source": "Manual del DMV de NY, Capítulo 9"
-  },
-  {
-    "id": "es_ch10_192",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 192] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch6_193",
-    "language": "es",
-    "chapter": 6,
-    "topic": "passing",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 193] ¿Cuál es la regla principal para passing en el capítulo 6?",
-    "choices": [
-      "Siempre sigue la regla de passing",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de passing",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para passing.",
-    "source": "Manual del DMV de NY, Capítulo 6"
-  },
-  {
-    "id": "es_ch10_194",
-    "language": "es",
-    "chapter": 10,
-    "topic": "special_conditions",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 194] ¿Cuál es la regla principal para special conditions en el capítulo 10?",
-    "choices": [
-      "Siempre sigue la regla de special_conditions",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de special_conditions",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para special conditions.",
-    "source": "Manual del DMV de NY, Capítulo 10"
-  },
-  {
-    "id": "es_ch4_195",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 195] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch4_196",
-    "language": "es",
-    "chapter": 4,
-    "topic": "road_signs",
-    "difficulty": "normal",
-    "isRoadSign": true,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 196] ¿Cuál es la regla principal para road signs en el capítulo 4?",
-    "choices": [
-      "Siempre sigue la regla de road_signs",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de road_signs",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para road signs.",
-    "source": "Manual del DMV de NY, Capítulo 4"
-  },
-  {
-    "id": "es_ch11_197",
-    "language": "es",
-    "chapter": 11,
-    "topic": "school_buses",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 197] ¿Cuál es la regla principal para school buses en el capítulo 11?",
-    "choices": [
-      "Siempre sigue la regla de school_buses",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de school_buses",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para school buses.",
-    "source": "Manual del DMV de NY, Capítulo 11"
-  },
-  {
-    "id": "es_ch7_198",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "normal",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 198] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
-  },
-  {
-    "id": "es_ch7_199",
-    "language": "es",
-    "chapter": 7,
-    "topic": "parking",
-    "difficulty": "hard",
-    "isRoadSign": false,
-    "status": "approved",
-    "question": "[Pregunta Generada del Manual del DMV de NY 199] ¿Cuál es la regla principal para parking en el capítulo 7?",
-    "choices": [
-      "Siempre sigue la regla de parking",
-      "Ignórala por completo",
-      "Solo aplica los fines de semana",
-      "Ninguna de las anteriores"
-    ],
-    "correctAnswer": "Siempre sigue la regla de parking",
-    "explanation": "Según el Manual del DMV de NY, este es el procedimiento de seguridad estándar para parking.",
-    "source": "Manual del DMV de NY, Capítulo 7"
+    "correctAnswer": "Dejar una nota con su nombre e información de contacto, y notificar a la policía",
+    "explanation": "Si golpea un vehículo desatendido, debe intentar encontrar al dueño. Si no puede, deje una nota y reporte el accidente a la policía.",
+    "source": "Capítulo 12"
   }
 ]

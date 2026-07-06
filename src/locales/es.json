@@ -96,6 +96,12 @@
     "description": "Esta sección te permitirá practicar preguntas por temas específicos como Señales de Tránsito, Derecho de Paso, etc.",
     "selectTopic": "Selecciona un Tema",
     "topics": {
+      "licenses": "Licencias de Conducir",
+      "restrictions": "Restricciones de Licencia",
+      "points": "Sistema de Puntos",
+      "suspensions": "Suspensiones y Revocaciones",
+      "insurance": "Seguro de Vehículo",
+      "registration": "Registro e Inspección",
       "road_signs": "Señales de Tránsito",
       "traffic_lights": "Semáforos",
       "pavement_markings": "Marcas en el Pavimento",
@@ -107,7 +113,9 @@
       "alcohol_and_drugs": "Alcohol y Drogas",
       "special_conditions": "Condiciones Especiales",
       "school_buses": "Autobuses Escolares",
-      "emergency_vehicles": "Vehículos de Emergencia"
+      "emergency_vehicles": "Vehículos de Emergencia",
+      "crashes": "Choques de Tráfico",
+      "emergencies": "Emergencias"
     }
   },
   "progress": {
