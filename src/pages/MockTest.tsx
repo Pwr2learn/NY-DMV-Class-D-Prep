@@ -96,13 +96,13 @@ export default function MockTest() {
         <p className="mb-4">Select your difficulty mode to begin.</p>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4" style={{ maxWidth: '800px', width: '100%' }}>
-          <button className="card btn-primary" onClick={() => startTest('normal')}>
+          <button className="btn-primary" style={{ padding: '1.5rem' }} onClick={() => startTest('normal')}>
             {t('test.normal')}
           </button>
-          <button className="card btn-primary" onClick={() => startTest('hard')} style={{ backgroundColor: 'var(--warning-color)' }}>
+          <button className="btn-primary" onClick={() => startTest('hard')} style={{ backgroundColor: 'var(--warning-color)', padding: '1.5rem' }}>
             {t('test.hard')}
           </button>
-          <button className="card btn-primary" onClick={() => startTest('expert')} style={{ backgroundColor: 'var(--error-color)' }}>
+          <button className="btn-primary" onClick={() => startTest('expert')} style={{ backgroundColor: 'var(--error-color)', padding: '1.5rem' }}>
             {t('test.expert')}
           </button>
         </div>
