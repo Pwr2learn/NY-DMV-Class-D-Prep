@@ -16,7 +16,7 @@ import Settings from './pages/Settings';
 function App() {
   return (
     <AppProvider>
-      <Router basename="/NY-DMV-Class-D-Prep">
+      <Router>
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
