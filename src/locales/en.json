@@ -40,12 +40,16 @@
     "next": "Next",
     "prev": "Previous",
     "submit": "Submit Test",
-    "earlyFailWarning": "You are no longer able to pass this attempt, but you can finish the test to see your full review.",
-    "finishAnyway": "Finish Test Anyway",
+    "earlyFailWarning": "You have answered too many questions incorrectly. It is mathematically impossible to pass this test. Would you like to stop now or finish anyway for practice?",
+    "finishAnyway": "Finish Anyway",
     "stopTest": "Stop Test",
     "selectDifficulty": "Select your difficulty mode to begin.",
-    "loading": "Loading...",
-    "notice": "Notice"
+    "loading": "Preparing your test...",
+    "notice": "Notice",
+    "poolStatus": "Question Pool Status",
+    "available": "Total Available",
+    "used": "Already Used",
+    "resetPool": "Reset Pool"
   },
   "results": {
     "pass": "Passed!",

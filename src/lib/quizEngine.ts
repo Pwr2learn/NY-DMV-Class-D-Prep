@@ -17,13 +17,21 @@ export function shuffleArray<T>(array: T[]): T[] {
  */
 export function generateMockTest(
   allQuestions: Question[],
-  mode: 'normal' | 'hard' | 'expert'
+  mode: 'normal' | 'hard' | 'expert' = 'normal',
+  usedQuestionIds: string[] = []
 ): Question[] {
-  // Only use approved questions
-  const approved = allQuestions.filter(q => q.status === 'approved');
+  // 1. Filter out used questions
+  let availableQuestions = allQuestions.filter(q => q.status === 'approved' && !usedQuestionIds.includes(q.id));
+
+  // Auto-reset if not enough questions
+  if (availableQuestions.length < 20) {
+    availableQuestions = allQuestions.filter(q => q.status === 'approved');
+    // Note: We don't trigger the state update here directly because it's a pure function,
+    // the UI component should handle the reset if it sees this happening.
+  }
   
-  const roadSigns = approved.filter(q => q.isRoadSign);
-  const general = approved.filter(q => !q.isRoadSign);
+  const roadSigns = availableQuestions.filter(q => q.isRoadSign);
+  const general = availableQuestions.filter(q => !q.isRoadSign);
 
   let roadSignCount = 0;
   let generalCount = 0;

@@ -16,6 +16,9 @@ interface AppContextType {
   setFontSize: (size: FontSize) => void;
   progress: UserProgress;
   updateProgress: (newProgress: UserProgress) => void;
+  usedQuestionIds: string[];
+  addUsedQuestions: (ids: string[]) => void;
+  resetUsedQuestions: () => void;
   t: (key: string, params?: Record<string, string | number>) => string;
 }
 
@@ -26,6 +29,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
   const [theme, setThemeState] = useState<Theme>('light');
   const [fontSize, setFontSizeState] = useState<FontSize>('medium');
   const [progress, setProgressState] = useState<UserProgress>(loadProgress());
+  const [usedQuestionIds, setUsedQuestionIdsState] = useState<string[]>([]);
 
   // Load initial settings
   useEffect(() => {
@@ -41,6 +45,15 @@ export function AppProvider({ children }: { children: ReactNode }) {
 
     const savedFontSize = localStorage.getItem('app_fontsize') as FontSize;
     if (savedFontSize) setFontSizeState(savedFontSize);
+
+    const savedUsed = localStorage.getItem('app_used_questions');
+    if (savedUsed) {
+      try {
+        setUsedQuestionIdsState(JSON.parse(savedUsed));
+      } catch (e) {
+        setUsedQuestionIdsState([]);
+      }
+    }
   }, []);
 
   // Update HTML classes when settings change
@@ -67,6 +80,17 @@ export function AppProvider({ children }: { children: ReactNode }) {
   const updateProgress = (newProgress: UserProgress) => {
     setProgressState(newProgress);
     saveProgress(newProgress);
+  };
+
+  const addUsedQuestions = (ids: string[]) => {
+    const newUsed = Array.from(new Set([...usedQuestionIds, ...ids]));
+    setUsedQuestionIdsState(newUsed);
+    localStorage.setItem('app_used_questions', JSON.stringify(newUsed));
+  };
+
+  const resetUsedQuestions = () => {
+    setUsedQuestionIdsState([]);
+    localStorage.removeItem('app_used_questions');
   };
 
   const t = (key: string, params?: Record<string, string | number>): string => {
@@ -102,6 +126,9 @@ export function AppProvider({ children }: { children: ReactNode }) {
         setFontSize,
         progress,
         updateProgress,
+        usedQuestionIds,
+        addUsedQuestions,
+        resetUsedQuestions,
         t,
       }}
     >

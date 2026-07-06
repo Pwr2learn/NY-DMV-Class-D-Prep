@@ -40,12 +40,16 @@
     "next": "Siguiente",
     "prev": "Anterior",
     "submit": "Enviar Prueba",
-    "earlyFailWarning": "Ya no puedes aprobar este intento, pero puedes terminar la prueba para ver tu revisión completa.",
-    "finishAnyway": "Terminar Prueba de Todos Modos",
-    "stopTest": "Detener Prueba",
+    "earlyFailWarning": "Ha respondido demasiadas preguntas incorrectamente. Es matemáticamente imposible aprobar esta prueba. ¿Desea detenerse ahora o terminar de todos modos para practicar?",
+    "finishAnyway": "Terminar de todos modos",
+    "stopTest": "Detener prueba",
     "selectDifficulty": "Selecciona tu nivel de dificultad para comenzar.",
-    "loading": "Cargando...",
-    "notice": "Aviso"
+    "loading": "Preparando su prueba...",
+    "notice": "Aviso",
+    "poolStatus": "Estado del Banco de Preguntas",
+    "available": "Total Disponibles",
+    "used": "Ya Utilizadas",
+    "resetPool": "Reiniciar Banco"
   },
   "results": {
     "pass": "¡Aprobado!",

@@ -12,7 +12,7 @@ import esQuestions from '../content/es/questions.json';
 type TestMode = 'normal' | 'hard' | 'expert';
 
 export default function MockTest() {
-  const { t, language, progress, updateProgress } = useAppContext();
+  const { t, language, progress, updateProgress, usedQuestionIds, addUsedQuestions, resetUsedQuestions } = useAppContext();
   const navigate = useNavigate();
 
   const [mode, setMode] = useState<TestMode | null>(null);
@@ -29,7 +29,12 @@ export default function MockTest() {
   }, [language]);
 
   const startTest = (selectedMode: TestMode) => {
-    const testQuestions = generateMockTest(allQuestions, selectedMode);
+    const testQuestions = generateMockTest(allQuestions, selectedMode, usedQuestionIds);
+    
+    // Check if a reset just occurred in the engine by comparing lengths if needed, 
+    // or we can just proactively add the new ones.
+    addUsedQuestions(testQuestions.map(q => q.id));
+
     setQuestions(testQuestions);
     setMode(selectedMode);
     setCurrentIndex(0);
@@ -94,6 +99,16 @@ export default function MockTest() {
       <div className="flex flex-col items-center justify-center text-center mt-4">
         <h1 className="mb-4 text-2xl font-bold">{t('nav.mockTest')}</h1>
         <p className="mb-4">{t('test.selectDifficulty')}</p>
+        
+        <div className="card mb-6 bg-[var(--bg-color)]">
+          <h3 className="mb-2">{t('test.poolStatus')}</h3>
+          <p className="mb-2" style={{ opacity: 0.8 }}>
+            {t('test.available')}: {allQuestions.length} | {t('test.used')}: {usedQuestionIds.length}
+          </p>
+          <button className="btn-secondary" style={{ padding: '0.5rem 1rem', fontSize: '0.9rem' }} onClick={resetUsedQuestions}>
+            {t('test.resetPool')}
+          </button>
+        </div>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4" style={{ maxWidth: '800px', width: '100%' }}>
           <button className="btn-primary" style={{ padding: '1.5rem' }} onClick={() => startTest('normal')}>
