@@ -52,5 +52,18 @@
     "retake": "Volver a Tomar Prueba",
     "practiceWeak": "Practicar Áreas Débiles",
     "returnHome": "Volver al Inicio"
+  },
+  "helpPage": {
+    "howToUseTitle": "Cómo Usar Esta Aplicación",
+    "howToUseText": "Usa la navegación superior para estudiar lecciones, practicar temas o tomar exámenes simulados.",
+    "mockRulesTitle": "Reglas del Examen Simulado",
+    "mockNormalTitle": "Normal:",
+    "mockNormalDesc": " 20 preguntas. Necesitas 14/20 en total y 2/4 de señales de tránsito para aprobar.",
+    "mockHardTitle": "Difícil:",
+    "mockHardDesc": " 20 preguntas. Necesitas 19/20 en total y 4/4 de señales de tránsito para aprobar.",
+    "mockExpertTitle": "Experto:",
+    "mockExpertDesc": " 50 preguntas. Necesitas 49/50 en total y 90% de señales de tránsito para aprobar.",
+    "accessibilityTitle": "Accesibilidad",
+    "accessibilityText": "Usa los botones en la parte superior derecha para cambiar el idioma (EN/ES), alternar el modo oscuro/claro, o cambiar el tamaño de la letra."
   }
 }

@@ -52,5 +52,18 @@
     "retake": "Retake Test",
     "practiceWeak": "Practice Weak Areas",
     "returnHome": "Return Home"
+  },
+  "helpPage": {
+    "howToUseTitle": "How to Use This App",
+    "howToUseText": "Use the top navigation to study lessons, practice topics, or take mock exams.",
+    "mockRulesTitle": "Mock Exam Rules",
+    "mockNormalTitle": "Normal:",
+    "mockNormalDesc": " 20 questions. Need 14/20 total and 2/4 road signs to pass.",
+    "mockHardTitle": "Hard:",
+    "mockHardDesc": " 20 questions. Need 19/20 total and 4/4 road signs to pass.",
+    "mockExpertTitle": "Expert:",
+    "mockExpertDesc": " 50 questions. Need 49/50 total and 90% road signs to pass.",
+    "accessibilityTitle": "Accessibility",
+    "accessibilityText": "Use the buttons in the top right to change the language (EN/ES), toggle dark/light mode, or change the font size."
   }
 }
