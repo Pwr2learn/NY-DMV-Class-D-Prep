@@ -10,6 +10,7 @@ import Practice from './pages/Practice';
 import Help from './pages/Help';
 import LearnChapter from './pages/LearnChapter';
 import PracticeTopic from './pages/PracticeTopic';
+import Settings from './pages/Settings';
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
             <Route path="/results" element={<Results />} />
             <Route path="/progress" element={<Progress />} />
             <Route path="/help" element={<Help />} />
+            <Route path="/settings" element={<Settings />} />
           </Routes>
         </Layout>
       </Router>

@@ -3,9 +3,10 @@
     "home": "Inicio",
     "learn": "Aprender",
     "practice": "Práctica",
-    "mockTest": "Simulador",
+    "mockTest": "Prueba Simulada",
     "progress": "Progreso",
-    "help": "Ayuda"
+    "help": "Ayuda",
+    "settings": "Configuración"
   },
   "home": {
     "title": "Prep. DMV NY Clase D",
@@ -17,6 +18,8 @@
     "viewProgress": "Ver Progreso"
   },
   "settings": {
+    "title": "Configuración de la Aplicación",
+    "description": "Personaliza tu experiencia.",
     "language": "Idioma",
     "theme": "Tema",
     "light": "Claro",
@@ -81,7 +84,8 @@
     "goBack": "Volver",
     "backToChapters": "← Volver a Capítulos",
     "noMaterials": "Aún no hay materiales de estudio disponibles para este capítulo.",
-    "chapter": "Capítulo"
+    "chapter": "Capítulo",
+    "questionsAvailable": "{{count}} preguntas disponibles"
   },
   "practice": {
     "underConstruction": "En Construcción",

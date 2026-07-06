@@ -2,12 +2,16 @@ import { useAppContext } from '../contexts/AppContext';
 import { useNavigate } from 'react-router-dom';
 import enChapters from '../content/en/chapters.json';
 import esChapters from '../content/es/chapters.json';
+import enQuestions from '../content/en/questions.json';
+import esQuestions from '../content/es/questions.json';
+import type { Question } from '../types';
 
 export default function Learn() {
   const { t, language } = useAppContext();
   const navigate = useNavigate();
   
   const chapters = language === 'en' ? enChapters : esChapters;
+  const questions = (language === 'en' ? enQuestions : esQuestions) as Question[];
   
   return (
     <div className="flex flex-col items-center mt-4 pb-8">
@@ -45,6 +49,9 @@ export default function Learn() {
               <div>
                 <h3 className="mb-1" style={{ margin: 0, fontSize: '1.2rem' }}>{chapter.title}</h3>
                 <p style={{ margin: 0, opacity: 0.8, fontSize: '0.9rem' }}>{chapter.summary}</p>
+                <p style={{ margin: 0, marginTop: '0.5rem', opacity: 0.6, fontSize: '0.85rem' }}>
+                  {t('learn.questionsAvailable', { count: questions.filter(q => q.chapter === chapter.number && q.status === 'approved').length })}
+                </p>
               </div>
             </div>
           ))}

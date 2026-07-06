@@ -5,7 +5,8 @@
     "practice": "Practice",
     "mockTest": "Mock Test",
     "progress": "Progress",
-    "help": "Help"
+    "help": "Help",
+    "settings": "Settings"
   },
   "home": {
     "title": "NY DMV Class D Prep",
@@ -17,6 +18,8 @@
     "viewProgress": "View Progress"
   },
   "settings": {
+    "title": "Application Settings",
+    "description": "Customize your experience.",
     "language": "Language",
     "theme": "Theme",
     "light": "Light",
@@ -81,7 +84,8 @@
     "goBack": "Go Back",
     "backToChapters": "← Back to Chapters",
     "noMaterials": "No study materials available for this chapter yet.",
-    "chapter": "Chapter"
+    "chapter": "Chapter",
+    "questionsAvailable": "{{count}} questions available"
   },
   "practice": {
     "underConstruction": "Under Construction",

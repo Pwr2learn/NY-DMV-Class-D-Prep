@@ -1,9 +1,14 @@
 import { useAppContext } from '../contexts/AppContext';
 import { useNavigate } from 'react-router-dom';
+import enQuestions from '../content/en/questions.json';
+import esQuestions from '../content/es/questions.json';
+import type { Question } from '../types';
 
 export default function Practice() {
-  const { t } = useAppContext();
+  const { t, language } = useAppContext();
   const navigate = useNavigate();
+  
+  const questions = (language === 'en' ? enQuestions : esQuestions) as Question[];
 
   // These keys correspond to the translation keys in en.json / es.json under practice.topics
   const topics = [
@@ -39,10 +44,13 @@ export default function Practice() {
                   onClick={() => navigate(`/practice/${topic}`)}
                   style={{ padding: '2rem 1rem' }}
                 >
-                    <h3 style={{ margin: 0 }}>
+                    <h3 style={{ margin: 0, marginBottom: '0.5rem' }}>
                         {/* We use type assertion any because TypeScript doesn't know these keys exist on the translation object statically without a complex type setup */}
                         {(t as any)(`practice.topics.${topic}`)}
                     </h3>
+                    <p style={{ margin: 0, opacity: 0.6, fontSize: '0.85rem' }}>
+                      {t('learn.questionsAvailable', { count: questions.filter(q => q.topic === topic && q.status === 'approved').length })}
+                    </p>
                 </div>
             ))}
         </div>
